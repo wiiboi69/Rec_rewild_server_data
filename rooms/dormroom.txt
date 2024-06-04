@@ -1,67 +1,70 @@
 [
-  {
-    "SubRooms": [
-      {
-        "SubRoomId": 1,
-        "RoomId": 1,
-        "Name": "Home",
-        "DataBlob": "",
-        "IsSandbox": true,
-        "MaxPlayers": 4,
-        "Accessibility": 1,
-        "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163"
-      }
-    ],
-    "Roles": [
-      {
-        "AccountId": 1,
-        "Role": 255,
-        "InvitedRole": 0
-      }
-    ],
-    "LoadScreens": [],
-    "PromoImages": [],
-    "PromoExternalContent": [],
-    "DataBlob": null,
-    "Tags": [
-      {
-        "Tag": "DormRoom",
-        "Type": 0
-      }
-    ],
-    "RoomId": 1,
-    "IsDorm": true,
-    "MaxPlayers": 4,
-    "MaxPlayerCalculationMode": 0,
+{
+    "Accessibility": 2,
     "CloningAllowed": true,
+    "CreatedAt": "2024-04-29T00:50:31.3734855",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "",
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "Name": "DormRoom",
-    "Description": "",
     "ImageName": "Dorm_Room",
-    "WarningMask": 0,
-    "CustomWarning": "",
-    "CreatorAccountId": 1,
-    "State": 0,
-    "Accessibility": 2,
-    "SupportsLevelVoting": true,
+    "IsDorm": true,
     "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 0,
+    "MaxPlayers": 4,
+    "MinLevel": 0,
+    "Name": "DormRoom",
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 1,
+    "State": 0,
+    "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "RoomId": 1,
+        "VisitCount": 0,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "DataBlobHash": "",
+            "DataSavedAt": "2024-04-29T00:50:31.3734855",
+            "IsSandbox": true,
+            "MaxPlayers": 4,
+            "Name": "Home",
+            "RoomId": 1,
+            "SubRoomId": 1,
+            "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": true,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
     "SupportsScreens": true,
-    "SupportsWalkVR": true,
     "SupportsTeleportVR": true,
     "SupportsVRLow": true,
-    "SupportsQuest2": true,
-    "SupportsMobile": true,
-    "SupportsJuniors": true,
-    "MinLevel": 0,
-    "CreatedAt": "2024-04-29T00:50:31.3734855",
-    "Stats": {
-      "RoomId": 1,
-      "CheerCount": 0,
-      "FavoriteCount": 0,
-      "VisitorCount": 0,
-      "VisitCount": 0
-    }
-  }
-]
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+            "Tag": "DormRoom",
+            "Type": 0
+        }
+    ],
+    "Version": 0,
+    "WarningMask": 0
+}]
