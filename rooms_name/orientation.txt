@@ -1,70 +1,72 @@
-
 {
-   "Accessibility" : 1,
-   "CloningAllowed" : true,
-   "CreatedAt" : "2024-04-29T00:50:31.8924764",
-   "CreatorAccountId" : 1,
-   "CustomWarning" : "",
-   "DataBlob" : null,
-   "Description" : "welcome to orientation",
-   "DisableMicAutoMute" : false,
-   "DisableRoomComments" : false,
-   "EncryptVoiceChat" : false,
-   "ImageName" : "orientation",
-   "IsDorm" : false,
-   "IsRRO" : true,
-   "LoadScreens" : [],
-   "MaxPlayerCalculationMode" : 0,
-   "MaxPlayers" : 1,
-   "MinLevel" : 0,
-   "Name" : "Orientation",
-   "PromoExternalContent" : [],
-   "PromoImages" : [],
-   "Roles" : [
-      {
-         "AccountId" : 1,
-         "InvitedRole" : 0,
-         "Role" : 255
-      }
-   ],
-   "RoomId" : 2,
-   "State" : 0,
-   "Stats" : {
-      "CheerCount" : 0,
-      "FavoriteCount" : 0,
-      "RoomId" : 3,
-      "VisitCount" : 0,
-      "VisitorCount" : 0
-   },
-   "SubRooms" : [
-      {
-         "Accessibility" : 1,
-         "DataBlob" : "",
-         "IsSandbox" : false,
-         "MaxPlayers" : 1,
-         "Name" : "Home",
-         "RoomId" : 2,
-         "SubRoomId" : 2,
-         "UnitySceneId" : "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
-      }
-   ],
-   "SupportsJuniors" : true,
-   "SupportsLevelVoting" : true,
-   "SupportsMobile" : true,
-   "SupportsQuest2" : true,
-   "SupportsScreens" : true,
-   "SupportsTeleportVR" : true,
-   "SupportsVRLow" : true,
-   "SupportsWalkVR" : true,
-   "Tags" : [
-      {
-         "Tag" : "rro",
-         "Type" : 2
-      },     
-      {
-         "Tag" : "hell",
-         "Type" : 2
-      },
-   ],
-   "WarningMask" : 0
+  "Accessibility": 1,
+  "CloningAllowed": true,
+  "CreatedAt": "2024-04-29T00:50:31.8924764",
+  "CreatorAccountId": 1,
+  "CustomWarning": "",
+  "DataBlob": null,
+  "Description": "welcome to orientation",
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ImageName": "orientation",
+  "IsDorm": false,
+  "IsRRO": true,
+  "LoadScreens": [],
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 1,
+  "MinLevel": 0,
+  "Name": "Orientation",
+  "PromoExternalContent": [],
+  "PromoImages": [],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "InvitedRole": 0,
+      "Role": 255
+    }
+  ],
+  "RoomId": 2,
+  "State": 0,
+  "Stats": {
+    "CheerCount": 0,
+    "FavoriteCount": 0,
+    "RoomId": 3,
+    "VisitCount": 0,
+    "VisitorCount": 0
+  },
+  "SubRooms": [
+    {
+      "Accessibility": 1,
+      "DataBlob": "",
+      "DataBlobHash": "",
+      "DataSavedAt": "2024-04-29T00:50:31.3734855",
+      "IsSandbox": false,
+      "MaxPlayers": 1,
+      "Name": "Home",
+      "RoomId": 3,
+      "SubRoomId": 3,
+      "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
+    }
+  ],
+  "SupportsJuniors": true,
+  "SupportsLevelVoting": true,
+  "SupportsMobile": true,
+  "SupportsQuest2": true,
+  "SupportsScreens": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsWalkVR": true,
+  "Tags": [
+    {
+      "Tag": "rro",
+      "Type": 2
+    },
+    {
+      "Tag": "hell",
+      "Type": 2
+    },
+  ],
+  "Version": 0,
+  "WarningMask": 0
 }
