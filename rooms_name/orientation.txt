@@ -26,7 +26,7 @@
       "Role": 255
     }
   ],
-  "RoomId": 2,
+  "RoomId": 3,
   "State": 0,
   "Stats": {
     "CheerCount": 0,
@@ -45,7 +45,7 @@
       "MaxPlayers": 1,
       "Name": "Home",
       "RoomId": 3,
-      "SubRoomId": 3,
+      "SubRoomId": 1,
       "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
     }
   ],
