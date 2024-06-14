@@ -33,12 +33,12 @@
       "Role": 255
     }
   ],
-  "RoomId": 4,
+  "RoomId": 18,
   "State": 0,
   "Stats": {
     "CheerCount": 0,
     "FavoriteCount": 0,
-    "RoomId": 4,
+    "RoomId": 18,
     "VisitCount": 0,
     "VisitorCount": 0
   },
@@ -51,7 +51,7 @@
       "IsSandbox": true,
       "MaxPlayers": 20,
       "Name": "Home",
-      "RoomId": 4,
+      "RoomId": 18,
       "SubRoomId": 51,
       "UnitySceneId": "cbad71af-0831-44d8-b8ef-69edafa841f6"
     }
