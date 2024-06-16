@@ -13,6 +13,7 @@
     "EncryptVoiceChat": false,
     "ImageName": "Dorm_Room",
     "IsDorm": true,
+    "IsDorm": true,
     "IsRRO": true,
     "LoadScreenLocked": false,
     "LoadScreens": [],
@@ -28,6 +29,12 @@
     "SupportsTeleportVR": true,
     "SupportsVRLow": true,
     "SupportsWalkVR": true,
+    "RoomId": 1,
+    "AllowsJuniors": true,
+    "CustomRoomWarning": "",
+    "RoomWarningMask": 0,
+    "SetType":0
+    "Type":0
     ]
     "Accessibility": 2,
     "CloningAllowed": true,
