@@ -3,6 +3,7 @@
     "CloningAllowed": true,
     "CreatedAt": "2024-04-29T00:50:31.3734855",
     "CreatorAccountId": 1,
+    "CreatorPlayerId": 1,
     "CustomWarning": "",
     "DataBlob": null,
     "Description": "",
