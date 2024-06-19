@@ -13,7 +13,6 @@
     "EncryptVoiceChat": false,
     "ImageName": "Dorm_Room",
     "IsDorm": true,
-    "IsDorm": true,
     "IsRRO": true,
     "LoadScreenLocked": false,
     "LoadScreens": [],
@@ -36,6 +35,9 @@
     "SetType":0
     "Type":0
     ]
+    "AllowsJuniors": true,
+    "CustomRoomWarning": "",
+    "RoomWarningMask": 0,
     "Accessibility": 2,
     "CloningAllowed": true,
     "CreatedAt": "2024-04-29T00:50:31.3734855",
