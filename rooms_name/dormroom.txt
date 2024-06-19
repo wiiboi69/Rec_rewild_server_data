@@ -105,6 +105,8 @@
     "SupportsTeleportVR": true,
     "SupportsVRLow": true,
     "SupportsWalkVR": true,
+    "SetType":0
+    "Type":0
     "Tags": [
         {
             "Tag": "DormRoom",
