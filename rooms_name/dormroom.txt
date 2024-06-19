@@ -1,0 +1,60 @@
+{
+  "Accessibility": 1,
+  "CloningAllowed": false,
+  "CreatedAt": "2024-04-29T00:50:32.0735655",
+  "CreatorAccountId": 1,
+  "CustomWarning": "",
+  "DataBlob": null,
+  "Description": "",
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ImageName": "dornroom",
+  "IsDorm": true,
+  "IsRRO": true,
+  "LoadScreens": [],
+  "MaxPlayerCalculationMode": 0,
+  "MaxPlayers": 12,
+  "MinLevel": 0,
+  "Name": "DormRoom",
+  "PromoExternalContent": [],
+  "PromoImages": [],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "InvitedRole": 0,
+      "Role": 255
+    }
+  ],
+  "RoomId": 1,
+  "State": 0,
+  "Stats": {
+    "CheerCount": 0,
+    "FavoriteCount": 0,
+    "RoomId": 1,
+    "VisitCount": 0,
+    "VisitorCount": 0
+  },
+  "SubRooms": [
+    {
+      "Accessibility": 1,
+      "DataBlob": "",
+      "IsSandbox": true,
+      "MaxPlayers": 12,
+      "Name": "Home",
+      "RoomId": 1,
+      "SubRoomId": 1,
+      "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163"
+    }
+  ],
+  "SupportsJuniors": true,
+  "SupportsLevelVoting": false,
+  "SupportsMobile": true,
+  "SupportsQuest2": true,
+  "SupportsScreens": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsWalkVR": true,
+  "Tags": [],
+  "WarningMask": 0
+}
