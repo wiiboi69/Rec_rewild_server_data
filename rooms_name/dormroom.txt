@@ -15,7 +15,7 @@
   "RankedEntityId": null,
   "Name": "DormRoom",
   "Description": "Your private room",
-  "ImageName": "dorm_room",
+  "ImageName": "dorm_room.png",
   "WarningMask": 0,
   "CustomWarning": "",
   "CreatorAccountId": 1,
