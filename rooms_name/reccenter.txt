@@ -15,7 +15,7 @@
   "RankedEntityId": null,
   "Name": "RecCenter",
   "Description": "A social hub to meet and mingle with friends new and old.",
-  "ImageName": "RecCenter",
+  "ImageName": "reccenter",
   "WarningMask": 0,
   "CustomWarning": "",
   "CreatorAccountId": 1,
