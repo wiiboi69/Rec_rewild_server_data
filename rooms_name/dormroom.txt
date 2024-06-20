@@ -2,7 +2,7 @@
   "RoomId": 1,
   "IsDorm": true,
   "MaxPlayerCalculationMode": 1,
-  "MaxPlayers": 0,
+  "MaxPlayers": 8,
   "CloningAllowed": false,
   "DisableMicAutoMute": false,
   "DisableRoomComments": false,
