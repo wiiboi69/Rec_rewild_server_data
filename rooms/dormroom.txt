@@ -11,7 +11,7 @@
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "ImageName": "Dorm_Room",
+    "ImageName": "Dorm_Room.png",
     "IsDorm": true,
     "IsRRO": true,
     "LoadScreenLocked": false,
