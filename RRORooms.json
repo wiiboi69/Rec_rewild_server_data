@@ -1,134 +1,282 @@
 {
-  "Results": [
+  "Results":[
+  {
+  "RoomId": 1,
+  "IsDorm": true,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 8,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "DormRoom",
+  "Description": "Your private room",
+  "ImageName": "dorm_room.png",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 2,
+  "SupportsLevelVoting": false,
+  "IsRRO": false,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2024-01-1T19:11:11.2029552",
+  "Stats": {
+    "CheerCount": 2,
+    "FavoriteCount": 1,
+    "VisitorCount": 0,
+    "VisitCount": 33
+  },
+  "RankingContext": null,
+  "SubRooms": [
     {
-      "SubRooms": [
-        {
-          "SubRoomId": 2,
-          "RoomId": 2,
-          "Name": "Home",
-          "DataBlob": "",
-          "IsSandbox": true,
-          "MaxPlayers": 1,
-          "Accessibility": 1,
-          "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
-        }
-      ],
-      "Roles": [
-        {
-          "AccountId": 1,
-          "Role": 255,
-          "InvitedRole": 0
-        }
-      ],
-      "LoadScreens": [],
-      "PromoImages": [],
-      "PromoExternalContent": [],
-      "DataBlob": null,
-      "Tags": [
-        {
-          "Tag": "rro",
-          "Type": 2
-        }
-      ],
+      "SubRoomId": 1,
+      "RoomId": 1,
+      "Name": "Home",
+      "DataBlob": "",
+      "IsSandbox": true,
+      "MaxPlayers": 4,
+      "Accessibility": 2,
+      "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+      "SavedByAccountId": -1
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion":12,
+  "Tags": [],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": []
+},
+    {
+  "RoomId": 2,
+  "IsDorm": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 0,
+  "CloningAllowed": false,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "RecCenter",
+  "Description": "A social hub to meet and mingle with friends new and old.",
+  "ImageName": "reccenter.png",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 1,
+  "SupportsLevelVoting": false,
+  "IsRRO": true,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2024-02-24T19:11:11.6987003",
+  "Stats": {
+    "CheerCount": 24,
+    "FavoriteCount": 25,
+    "VisitorCount": 0,
+    "VisitCount": 5528
+  },
+  "RankingContext": null,
+  "SubRooms": [
+    {
+      "SubRoomId": 2,
       "RoomId": 2,
-      "IsDorm": false,
-      "MaxPlayers": 1,
-      "MaxPlayerCalculationMode": 0,
-      "CloningAllowed": true,
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "Name": "Orientation",
-      "Description": "orientation",
-      "ImageName": "",
-      "WarningMask": 0,
-      "CustomWarning": "",
-      "CreatorAccountId": 1,
-      "State": 0,
+      "Name": "Home",
+      "DataBlob": "RoomData2841116730845187810",
+      "IsSandbox": false,
+      "MaxPlayers": 12,
       "Accessibility": 1,
-      "SupportsLevelVoting": true,
-      "IsRRO": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsQuest2": true,
-      "SupportsMobile": true,
-      "SupportsJuniors": true,
-      "MinLevel": 0,
-      "CreatedAt": "2024-04-29T00:50:31.8924764",
-      "Stats": {
-        "RoomId": 2,
-        "CheerCount": 0,
-        "FavoriteCount": 0,
-        "VisitorCount": 0,
-        "VisitCount": 0
-      }
+      "UnitySceneId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+      "SavedByAccountId": 62
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion": 1,
+  "Tags": [
+    {
+      "Tag": "hangout",
+      "Type": 0
     },
     {
-      "SubRooms": [
-        {
-          "SubRoomId": 3,
-          "RoomId": 3,
-          "Name": "Home",
-          "DataBlob": "",
-          "IsSandbox": true,
-          "MaxPlayers": 12,
-          "Accessibility": 1,
-          "UnitySceneId": "cbad71af-0831-44d8-b8ef-69edafa841f6"
-        }
-      ],
-      "Roles": [
-        {
-          "AccountId": 1,
-          "Role": 255,
-          "InvitedRole": 0
-        }
-      ],
-      "LoadScreens": [],
-      "PromoImages": [],
-      "PromoExternalContent": [],
-      "DataBlob": null,
-      "Tags": [
-        {
-          "Tag": "rro",
-          "Type": 2
-        }
-      ],
-      "RoomId": 3,
-      "IsDorm": false,
-      "MaxPlayers": 12,
-      "MaxPlayerCalculationMode": 0,
-      "CloningAllowed": true,
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "Name": "RecCenter",
-      "Description": "A social hub to meet and mingle with friends new and old.",
-      "ImageName": "",
-      "WarningMask": 0,
-      "CustomWarning": "",
-      "CreatorAccountId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": true,
-      "IsRRO": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsQuest2": true,
-      "SupportsMobile": true,
-      "SupportsJuniors": true,
-      "MinLevel": 0,
-      "CreatedAt": "2024-04-29T00:50:31.9469304",
-      "Stats": {
-        "RoomId": 3,
-        "CheerCount": 0,
-        "FavoriteCount": 0,
-        "VisitorCount": 0,
-        "VisitCount": 0
-      }
+      "Tag": "rro",
+      "Type": 0
     }
-  ]
+  ],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": []
+},
+    {"RoomId":18,"IsDorm":false,"MaxPlayerCalculationMode":1,"MaxPlayers":2000,"CloningAllowed":true,"DisableMicAutoMute":false,"DisableRoomComments":false,"EncryptVoiceChat":false,"ToxmodEnabled":false,"LoadScreenLocked":false,"PersistenceVersion":2,"AutoLocalizeRoom":false,"IsDeveloperOwned":true,"RankedEntityId":null,"Name":"Lounge","Description":"A low-key lounge to chill with your friends. Great for private parties!","ImageName":"Lounge","WarningMask":0,"CustomWarning":"","CreatorAccountId":1,"State":0,"Accessibility":1,"SupportsLevelVoting":false,"IsRRO":true,"SupportsScreens":true,"SupportsWalkVR":true,"SupportsTeleportVR":true,"SupportsVRLow":true,"SupportsQuest2":true,"SupportsMobile":true,"SupportsJuniors":true,"MinLevel":0,"CreatedAt":"2024-02-24T19:11:13.688148","Stats":{"CheerCount":0,"FavoriteCount":0,"VisitorCount":0,"VisitCount":25},"RankingContext":null,"SubRooms":[{"SubRoomId":1,"RoomId":18,"Name":"Home","DataBlob":"","IsSandbox":true,"MaxPlayers":2000,"Accessibility":1,"UnitySceneId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a","SavedByAccountId":-1}],"Roles":[{"AccountId":1,"Role":255,"InvitedRole":0}],"DataBlob":null,"UgcVersion":1,"Tags":[{"Tag":"base","Type":0},{"Tag":"hangout","Type":0},{"Tag":"rro","Type":0}],"PromoImages":[],"PromoExternalContent":[],"LoadScreens":[]},
+    {
+    "Accessibility": 1,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": true,
+    "CreatedAt": "2024-02-24T19:11:13.1437518",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "Paintball",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 800,
+    "MinLevel": 0,
+    "Name": "Paintball",
+    "PersistenceVersion": 2,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": null,
+    "RankingContext": null,
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 6,
+    "State": 0,
+    "Stats": {
+        "CheerCount": 1,
+        "FavoriteCount": 2,
+        "VisitCount": 218,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "River",
+            "RoomId": 6,
+            "SavedByAccountId": -1,
+            "SubRoomId": 13,
+            "UnitySceneId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0"
+        },
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "Homestead",
+            "RoomId": 7,
+            "SavedByAccountId": -1,
+            "SubRoomId": 14,
+            "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7"
+        },
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "Quarry",
+            "RoomId": 8,
+            "SavedByAccountId": -1,
+            "SubRoomId": 15,
+            "UnitySceneId": "ff4c6427-7079-4f59-b22a-69b089420827"
+        },
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "Clearcut",
+            "RoomId": 9,
+            "SavedByAccountId": -1,
+            "SubRoomId": 16,
+            "UnitySceneId": "380d18b5-de9c-49f3-80f7-f4a95c1de161"
+        },
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "Spillway",
+            "RoomId": 10,
+            "SavedByAccountId": -1,
+            "SubRoomId": 17,
+            "UnitySceneId": "58763055-2dfb-4814-80b8-16fac5c85709"
+        },
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 8,
+            "Name": "DriveIn",
+            "RoomId": 11,
+            "SavedByAccountId": -1,
+            "SubRoomId": 18,
+            "UnitySceneId": "65ddbb48-5a01-4e3e-972d-e5c7419e2bc3"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": true,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+            "Tag": "pvp",
+            "Type": 0
+        },
+        {
+            "Tag": "rro",
+            "Type": 0
+        }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 1,
+    "WarningMask": 0
+},
+    ],"TotalResults": 4
 }
