@@ -355,5 +355,78 @@
     "UgcVersion": 2,
     "WarningMask": 0
 },
-    ],"TotalResults": 5
+    {
+    "Accessibility": 1,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": false,
+    "CreatedAt": "2024-02-24T19:11:12.4432401",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "An introductory tour of Rec Room!",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "Orientation",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 0,
+    "MinLevel": 0,
+    "Name": "Orientation",
+    "PersistenceVersion": 2,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": null,
+    "RankingContext": null,
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 20,
+    "State": 0,
+    "Stats": {
+        "CheerCount": 4,
+        "FavoriteCount": 6,
+        "VisitCount": 43,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "RoomData6674040500062381405",
+            "IsSandbox": false,
+            "MaxPlayers": 1,
+            "Name": "Home",
+            "RoomId": 20,
+            "SavedByAccountId": 1,
+            "SubRoomId": 1,
+            "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+            "Tag": "rro",
+            "Type": 0
+        }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 2,
+    "WarningMask": 0
+},
+    ],"TotalResults": 6
 }
