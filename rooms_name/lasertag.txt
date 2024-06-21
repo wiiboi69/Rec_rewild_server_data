@@ -10,7 +10,7 @@
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "ImageName": "LaserTag.png",
+    "ImageName": "LaserTag",
     "IsDeveloperOwned": true,
     "IsDorm": false,
     "IsRRO": true,
