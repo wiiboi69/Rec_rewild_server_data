@@ -10,7 +10,7 @@
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "ImageName": "Orientation",
+    "ImageName": "Orientation.png",
     "IsDeveloperOwned": true,
     "IsDorm": false,
     "IsRRO": true,

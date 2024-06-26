@@ -10,7 +10,7 @@
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "ImageName": "Paintball",
+    "ImageName": "Paintball_River.png",
     "IsDeveloperOwned": true,
     "IsDorm": false,
     "IsRRO": true,
