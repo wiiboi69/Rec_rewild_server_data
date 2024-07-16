@@ -593,6 +593,83 @@
     "UgcVersion": 2,
     "WarningMask": 0
 },
+    {
+    "Accessibility": 1,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": true,
+    "CreatedAt": "2024-02-24T19:11:12.5586135",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "waebois pfp basically",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "Jumbotron.png",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 0,
+    "MinLevel": 0,
+    "Name": "TheRiseOfJumbotron",
+    "PersistenceVersion": 2,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": null,
+    "RankingContext": null,
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 23,
+    "State": 0,
+    "Stats": {
+        "CheerCount": 12,
+        "FavoriteCount": 16,
+        "VisitCount": 1701,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 4,
+            "Name": "Home",
+            "RoomId": 22,
+            "SavedByAccountId": -1,
+            "SubRoomId": 8,
+            "UnitySceneId": "acc06e66-c2d0-4361-b0cd-46246a4c455c"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+            "Tag": "quest",
+            "Type": 0
+        },
+        {
+            "Tag": "rro",
+            "Type": 0
+        }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 2,
+    "WarningMask": 0
+},
     {"RoomId":16,"IsDorm":false,"MaxPlayerCalculationMode":1,"MaxPlayers":0,"CloningAllowed":false,"DisableMicAutoMute":false,"DisableRoomComments":false,"EncryptVoiceChat":false,"ToxmodEnabled":false,"LoadScreenLocked":false,"PersistenceVersion":2,"AutoLocalizeRoom":false,"IsDeveloperOwned":true,"RankedEntityId":null,"Name":"RecRoyaleSolos","Description":"Battle it out on Frontier Island. Last person standing wins!","ImageName":"RoomImagec69688fa8dc14099afbf5ea293f5b2e8.png","WarningMask":0,"CustomWarning":"","CreatorAccountId":1,"State":0,"Accessibility":1,"SupportsLevelVoting":false,"IsRRO":true,"SupportsScreens":true,"SupportsWalkVR":true,"SupportsTeleportVR":true,"SupportsVRLow":true,"SupportsQuest2":true,"SupportsMobile":true,"SupportsJuniors":true,"MinLevel":0,"CreatedAt":"2024-02-24T19:11:12.0918225","Stats":{"CheerCount":5,"FavoriteCount":6,"VisitorCount":0,"VisitCount":427},"RankingContext":null,"SubRooms":[{"SubRoomId":4,"RoomId":16,"Name":"Home","DataBlob":"","IsSandbox":true,"MaxPlayers":16,"Accessibility":1,"UnitySceneId":"b010171f-4875-4e89-baba-61e878cd41e1","SavedByAccountId":-1}],"Roles":[{"AccountId":1,"Role":255,"InvitedRole":0}],"DataBlob":null,"UgcVersion":2,"Tags":[{"Tag":"pvp","Type":0},{"Tag":"rro","Type":0}],"PromoImages":[],"PromoExternalContent":[],"LoadScreens":[]},
     {
   "RoomId": 21,
