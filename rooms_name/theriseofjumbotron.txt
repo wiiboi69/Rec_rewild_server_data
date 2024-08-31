@@ -15,7 +15,7 @@
   "RankedEntityId": null,
   "Name": "TheRiseofJumbotron",
   "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
-  "ImageName": "RoomImage9e695ac9282b4bd4972eb0b9a05bc00a.png",
+  "ImageName": "xedpng.jpg",
   "WarningMask": 0,
   "CustomWarning": "",
   "CreatorAccountId": 1,
