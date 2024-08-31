@@ -1,5 +1,5 @@
 {
-  "RoomId": 24,
+  "RoomId": 26,
   "IsDorm": false,
   "MaxPlayerCalculationMode": 1,
   "MaxPlayers": 0,
@@ -41,8 +41,8 @@
   "RankingContext": null,
   "SubRooms": [
     {
-      "SubRoomId": 9,
-      "RoomId": 9,
+      "SubRoomId": 27,
+      "RoomId": 26,
       "Name": "Home",
       "DataBlob": "",
       "IsSandbox": false,
