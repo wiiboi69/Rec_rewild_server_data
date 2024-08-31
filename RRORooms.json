@@ -430,7 +430,13 @@
   ],
   "PromoImages": [],
   "PromoExternalContent": [],
-  "LoadScreens": []
+ "LoadScreens" : [
+         {
+            "ImageName" : "RoomImage9e695ac9282b4bd4972eb0b9a05bc00a.png",
+            "Subtitle" : "jumbo",
+            "Title" : "tronners"
+         }
+      ],
 },
     {
     "Accessibility": 1,
