@@ -759,6 +759,91 @@
     "WarningMask": 0
 },
     {
+  "RoomId": 27,
+  "IsDorm": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 0,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "CrimsonCauldron",
+  "Description": "Can your band of adventurers brave the enchanted wilds, and lift the curse of the crimson cauldron?",
+  "ImageName": "CCC.jpg",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 1,
+  "SupportsLevelVoting": false,
+  "IsRRO": true,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2024-02-24T19:11:15.4906016",
+  "Stats": {
+    "CheerCount": 2,
+    "FavoriteCount": 3,
+    "VisitorCount": 0,
+    "VisitCount": 63
+  },
+  "RankingContext": null,
+  "SubRooms": [
+    {
+      "SubRoomId": 39,
+      "RoomId": 27,
+      "Name": "Home",
+      "DataBlob": "",
+      "IsSandbox": false,
+      "MaxPlayers": 4,
+      "Accessibility": 1,
+      "UnitySceneId": "949fa41f-4347-45c0-b7ac-489129174045",
+      "SavedByAccountId": -1
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion": 2,
+  "Tags": [
+    {
+      "Tag": "quest",
+      "Type": 0
+    },
+    {
+      "Tag": "coop",
+      "Type": 0
+    },
+    {
+      "Tag": "fantasy",
+      "Type": 0
+    },
+    {
+      "Tag": "rro",
+      "Type": 0
+    }
+  ],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": []
+},
+    {
     "Accessibility": 1,
     "AutoLocalizeRoom": false,
     "CloningAllowed": true,
