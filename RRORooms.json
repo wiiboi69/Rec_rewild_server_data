@@ -223,7 +223,7 @@
     "UgcVersion": 2,
     "WarningMask": 0
 },
-    {"RoomId":18,"IsDorm":false,"MaxPlayerCalculationMode":1,"MaxPlayers":2000,"CloningAllowed":true,"DisableMicAutoMute":false,"DisableRoomComments":false,"EncryptVoiceChat":false,"ToxmodEnabled":false,"LoadScreenLocked":false,"PersistenceVersion":2,"AutoLocalizeRoom":false,"IsDeveloperOwned":true,"RankedEntityId":null,"Name":"Lounge","Description":"A low-key lounge to chill with your friends. Great for private parties!","ImageName":"Lounge","WarningMask":0,"CustomWarning":"","CreatorAccountId":1,"State":0,"Accessibility":1,"SupportsLevelVoting":false,"IsRRO":true,"SupportsScreens":true,"SupportsWalkVR":true,"SupportsTeleportVR":true,"SupportsVRLow":true,"SupportsQuest2":true,"SupportsMobile":true,"SupportsJuniors":true,"MinLevel":0,"CreatedAt":"2024-02-24T19:11:13.688148","Stats":{"CheerCount":0,"FavoriteCount":0,"VisitorCount":0,"VisitCount":25},"RankingContext":null,"SubRooms":[{"SubRoomId":1,"RoomId":18,"Name":"Home","DataBlob":"","IsSandbox":true,"MaxPlayers":2000,"Accessibility":1,"UnitySceneId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a","SavedByAccountId":-1}],"Roles":[{"AccountId":1,"Role":255,"InvitedRole":0}],"DataBlob":null,"UgcVersion":1,"Tags":[{"Tag":"base","Type":0},{"Tag":"hangout","Type":0},{"Tag":"rro","Type":0}],"PromoImages":[],"PromoExternalContent":[],"LoadScreens":[]},
+    {"RoomId":18,"IsDorm":false,"MaxPlayerCalculationMode":1,"MaxPlayers":2000,"CloningAllowed":true,"DisableMicAutoMute":false,"DisableRoomComments":false,"EncryptVoiceChat":false,"ToxmodEnabled":false,"LoadScreenLocked":false,"PersistenceVersion":2,"AutoLocalizeRoom":false,"IsDeveloperOwned":true,"RankedEntityId":null,"Name":"Lounge","Description":"A low-key lounge to chill with your friends. Great for private parties!","ImageName":"Lounge.png","WarningMask":0,"CustomWarning":"","CreatorAccountId":1,"State":0,"Accessibility":1,"SupportsLevelVoting":false,"IsRRO":true,"SupportsScreens":true,"SupportsWalkVR":true,"SupportsTeleportVR":true,"SupportsVRLow":true,"SupportsQuest2":true,"SupportsMobile":true,"SupportsJuniors":true,"MinLevel":0,"CreatedAt":"2024-02-24T19:11:13.688148","Stats":{"CheerCount":0,"FavoriteCount":0,"VisitorCount":0,"VisitCount":25},"RankingContext":null,"SubRooms":[{"SubRoomId":1,"RoomId":18,"Name":"Home","DataBlob":"","IsSandbox":true,"MaxPlayers":2000,"Accessibility":1,"UnitySceneId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a","SavedByAccountId":-1}],"Roles":[{"AccountId":1,"Role":255,"InvitedRole":0}],"DataBlob":null,"UgcVersion":1,"Tags":[{"Tag":"base","Type":0},{"Tag":"hangout","Type":0},{"Tag":"rro","Type":0}],"PromoImages":[],"PromoExternalContent":[],"LoadScreens":[]},
     {
     "Accessibility": 1,
     "AutoLocalizeRoom": false,
@@ -368,7 +368,7 @@
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
-    "ImageName": "Bowling",
+    "ImageName": "Bowling.jpg",
     "IsDeveloperOwned": true,
     "IsDorm": false,
     "IsRRO": true,
