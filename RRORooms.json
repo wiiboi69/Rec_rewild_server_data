@@ -357,7 +357,7 @@
     "WarningMask": 0
 },
     {
-  "RoomId": 20,
+  "RoomId": 200,
   "IsDorm": false,
   "MaxPlayerCalculationMode": 1,
   "MaxPlayers": 0,
@@ -399,8 +399,8 @@
   "RankingContext": null,
   "SubRooms": [
     {
-      "SubRoomId": 26,
-      "RoomId": 20,
+      "SubRoomId": 200,
+      "RoomId": 200,
       "Name": "Home",
       "DataBlob": "",
       "IsSandbox": false,
