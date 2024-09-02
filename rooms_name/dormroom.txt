@@ -48,7 +48,7 @@
       "IsSandbox": true,
       "MaxPlayers": 4,
       "Accessibility": 2,
-      "UnitySceneId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+      "UnitySceneId": 76d98498-60a1-430c-ab76-b54a29b7a163",
       "SavedByAccountId": -1
     }
   ],
