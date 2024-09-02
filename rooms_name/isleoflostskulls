@@ -1,0 +1,83 @@
+{
+  "RoomId": 26,
+  "IsDorm": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 0,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "IsleOfLostSkulls",
+  "Description": "can your pirate crew get to the boss, defeat its balls, and escape with the gold?",
+  "ImageName": "ILS.png",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 1,
+  "SupportsLevelVoting": false,
+  "IsRRO": true,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2024-02-24T19:11:15.3569179",
+  "Stats": {
+    "CheerCount": 1,
+    "FavoriteCount": 2,
+    "VisitorCount": 0,
+    "VisitCount": 120
+  },
+  "RankingContext": null,
+  "SubRooms": [
+    {
+      "SubRoomId": 38,
+      "RoomId": 26,
+      "Name": "Home",
+      "DataBlob": "",
+      "IsSandbox": false,
+      "MaxPlayers": 3,
+      "Accessibility": 1,
+      "UnitySceneId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+      "SavedByAccountId": -1
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion": 2,
+  "Tags": [
+    {
+      "Tag": "quest",
+      "Type": 0
+    },
+    {
+      "Tag": "rro",
+      "Type": 0
+    }
+  ],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": [
+    {
+      "ImageName": "skull.png",
+      "Subtitle": "defeat boss",
+      "Title": "isle"
+    }
+  ]
+},
