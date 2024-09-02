@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "550bdee9e43c4954bccd5d9916c0e5a9",
+    "Title": "Get Free Tokens!",
+    "Message": "We're giving out 1 token to celebrate Rec Room's 69th birthday! Invite your websocking and earn up to 1 tokens. Find out more at waeboi.com/friendfest",
+    "RoomNames": [],
+    "Context": 0,
+    "InputType": 0,
+    "Visibility": 0,
+    "AllowCycling": true,
+    "RestrictToNewUsers": false,
+    "ImageName": "6f2fc437999d43ec8bcad1e2dc40827a",
+    "PlatformMask": 111,
+    "CreatedAt": "2021-06-18T20:31:28Z"
+  },
+  {
+    "Name": "06c6f0e4e0604149bdfc7f50c3d8cad5",
+    "Title": "Interacting with people",
+    "Message": "To make a friend (hope websockets work back me up weaboi), open the People menu in your <sprite name=\"MenuIcon_Sprites_4(HR)_Watch\"> or start a handshake by holding <sprite name=\"MenuIcon_Sprites_4(HR)_XboxWest\"> or <sprite name=\"MenuIcon_Sprites_4(HR)_XboxDPadEast\"> then selecting <sprite name=\"MenuIcon_Sprites_4(HR)_ShakeHands\"> from the shortcut menu",
+    "RoomNames": [],
+    "Context": 0,
+    "InputType": 2,
+    "Visibility": 0,
+    "AllowCycling": true,
+    "RestrictToNewUsers": true,
+    "ImageName": "355724cad6c04a8fb71a4be1110fb575",
+    "PlatformMask": 9,
+    "CreatedAt": "2021-07-02T18:50:07Z"
+  }
+]
