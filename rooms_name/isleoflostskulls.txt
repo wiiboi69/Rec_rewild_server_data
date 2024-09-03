@@ -14,7 +14,7 @@
   "IsDeveloperOwned": true,
   "RankedEntityId": null,
   "Name": "isleoflostskulls",
-  "Description": "skelly crew, nahhh gold coin be £1"
+  "Description": "skelly crew, nahhh gold coin be £1",
   "ImageName": "ILS.png",
   "WarningMask": 0,
   "CustomWarning": "",
