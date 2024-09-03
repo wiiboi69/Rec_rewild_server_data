@@ -14,7 +14,7 @@
   "IsDeveloperOwned": true,
   "RankedEntityId": null,
   "Name": "IsleOfLostSkulls",
-  "Description": "can your pirate crew get to the boss, defeat its balls, and escape with the gold?",
+  "Description": "skelly crew,\nahhh gold coin be £1"
   "ImageName": "ILS.png",
   "WarningMask": 0,
   "CustomWarning": "",
