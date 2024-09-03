@@ -13,7 +13,7 @@
   "AutoLocalizeRoom": false,
   "IsDeveloperOwned": true,
   "RankedEntityId": null,
-  "Name": "IsleOfLostSkulls",
+  "Name": "isleoflostskulls",
   "Description": "skelly crew, nahhh gold coin be £1"
   "ImageName": "ILS.png",
   "WarningMask": 0,
