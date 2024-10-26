@@ -1,0 +1,77 @@
+{
+    "Accessibility": 1,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": true,
+    "CreatedAt": "2024-02-24T19:11:13.4547558",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "touch dic",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "Park.png",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 0,
+    "MinLevel": 0,
+    "Name": "Park",
+    "PersistenceVersion": 2,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": null,
+    "RankingContext": null,
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 18,
+    "State": 0,
+    "Stats": {
+        "CheerCount":8,
+        "FavoriteCount": 3,
+        "VisitCount": 739,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 12,
+            "Name": "Home",
+            "RoomId": 18,
+            "SavedByAccountId": -1,
+            "SubRoomId": 18,
+            "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+            "Tag": "rro",
+            "Type": 0
+        },
+        {
+            "Tag": "game",
+            "Type": 0
+        }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 2,
+    "WarningMask": 0
+}
