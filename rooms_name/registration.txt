@@ -1,5 +1,5 @@
  {
-      "RoomId": 1800,
+      "RoomId": 24,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
       "MaxPlayers": 2000,
