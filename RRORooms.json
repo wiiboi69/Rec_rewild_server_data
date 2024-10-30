@@ -304,7 +304,7 @@
       "LoadScreens": []
     },
     {
-      "RoomId": 1800,
+      "RoomId": 24,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
       "MaxPlayers": 2000,
@@ -347,7 +347,7 @@
       "SubRooms": [
         {
           "SubRoomId": 1,
-          "RoomId": 18,
+          "RoomId": 24,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
