@@ -78,4 +78,4 @@
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
-    },
+    }
