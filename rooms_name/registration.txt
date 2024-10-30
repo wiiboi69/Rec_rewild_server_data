@@ -41,8 +41,8 @@
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 1,
-          "RoomId": 18,
+          "SubRoomId": 1333,
+          "RoomId": 24,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
