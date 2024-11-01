@@ -1,5 +1,5 @@
 {
-    "Accessibility": 1,
+    "Accessibility": 3,
     "AutoLocalizeRoom": false,
     "CloningAllowed": true,
     "CreatedAt": "2024-02-24T19:11:12.5586135",
