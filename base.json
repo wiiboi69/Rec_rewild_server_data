@@ -1,0 +1,75 @@
+[
+  {
+    "Accessibility": 2,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": false,
+    "CreatedAt": "2024-02-24T19:11:11.9233036",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": "",
+    "Description": "This room is a blank canvas. Make it into whatever you like!",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "makerroom.jpg",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 69,
+    "MinLevel": 0,
+    "Name": "MakerRoom",
+    "PersistenceVersion": 1,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": "",
+    "RankingContext": 0,
+    "Roles": [
+      {
+        "AccountId": 1,
+        "InvitedRole": 0,
+        "Role": 255
+      }
+    ],
+    "RoomId": 69420,
+    "State": 0,
+    "Stats": {
+      "CheerCount": 2,
+      "FavoriteCount": 2,
+      "VisitCount": 5,
+      "VisitorCount": 0
+    },
+    "SubRooms": [
+      {
+        "Accessibility": 1,
+        "DataBlob": "",
+        "IsSandbox": false,
+        "MaxPlayers": 12,
+        "Name": "Home",
+        "RoomId": 3,
+        "SavedByAccountId": -1,
+        "SubRoomId": 3,
+        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92"
+      }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+      {
+        "Tag": "base",
+        "Type": 0
+      }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 1,
+    "WarningMask": 0
+  }
+]
