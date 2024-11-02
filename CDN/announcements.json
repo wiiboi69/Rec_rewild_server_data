@@ -1,0 +1,15 @@
+[
+   {
+      "AnnouncementId" : 1,
+      "AnnouncementType" : 4,
+      "Body" : "test (hi)",
+      "CreatedAt" : "2024-11-02T04:02:52.5558164+00:00",
+      "ImageName" : "meme.png",
+      "LinkName" : "hello",
+      "LinkType" : 0,
+      "LinkUri" : "",
+      "Platform" : -1,
+      "Title" : "hello"
+   }
+   
+]
