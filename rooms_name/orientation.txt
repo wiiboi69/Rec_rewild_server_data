@@ -43,7 +43,7 @@
     "SubRooms": [
         {
             "Accessibility": 1,
-            "DataBlob": "RoomData6674040500062381405",
+            "DataBlob": "",
             "IsSandbox": false,
             "MaxPlayers": 1,
             "Name": "Home",
