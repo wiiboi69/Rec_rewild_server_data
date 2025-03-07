@@ -1,0 +1,73 @@
+{
+    "Accessibility": 1,
+    "AutoLocalizeRoom": false,
+    "CloningAllowed": true,
+    "CreatedAt": "2017-01-24T19:11:12.5586135",
+    "CreatorAccountId": 1,
+    "CustomWarning": "",
+    "DataBlob": null,
+    "Description": "make stuff in this "maker" room",
+    "DisableMicAutoMute": false,
+    "DisableRoomComments": false,
+    "EncryptVoiceChat": false,
+    "ImageName": "MakerRoom.png",
+    "IsDeveloperOwned": true,
+    "IsDorm": false,
+    "IsRRO": true,
+    "LoadScreenLocked": false,
+    "LoadScreens": [],
+    "MaxPlayerCalculationMode": 1,
+    "MaxPlayers": 0,
+    "MinLevel": 0,
+    "Name": "Dodgeball",
+    "PersistenceVersion": 2,
+    "PromoExternalContent": [],
+    "PromoImages": [],
+    "RankedEntityId": null,
+    "RankingContext": null,
+    "Roles": [
+        {
+            "AccountId": 1,
+            "InvitedRole": 0,
+            "Role": 255
+        }
+    ],
+    "RoomId": 69420,
+    "State": 0,
+    "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitCount": 0,
+        "VisitorCount": 0
+    },
+    "SubRooms": [
+        {
+            "Accessibility": 1,
+            "DataBlob": "",
+            "IsSandbox": false,
+            "MaxPlayers": 4,
+            "Name": "Home",
+            "RoomId": 69420,
+            "SavedByAccountId": -1,
+            "SubRoomId": 69420,
+            "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92"
+        }
+    ],
+    "SupportsJuniors": true,
+    "SupportsLevelVoting": false,
+    "SupportsMobile": true,
+    "SupportsQuest2": true,
+    "SupportsScreens": true,
+    "SupportsTeleportVR": true,
+    "SupportsVRLow": true,
+    "SupportsWalkVR": true,
+    "Tags": [
+        {
+          "Tag": "base",
+          "Type": 0
+        }
+    ],
+    "ToxmodEnabled": false,
+    "UgcVersion": 2,
+    "WarningMask": 0
+}
