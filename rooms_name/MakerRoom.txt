@@ -6,7 +6,7 @@
     "CreatorAccountId": 1,
     "CustomWarning": "",
     "DataBlob": null,
-    "Description": "make stuff in this "maker" room",
+    "Description": "make stuff in this maker room",
     "DisableMicAutoMute": false,
     "DisableRoomComments": false,
     "EncryptVoiceChat": false,
