@@ -1,0 +1,799 @@
+[
+  {
+    "Name": "Dorm Room",
+    "ReplicationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+    "SceneName": "dormroom2",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 1,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 0
+  },
+  {
+    "Name": "Rec Center",
+    "ReplicationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+    "SceneName": "reccenter",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 1
+  },
+  {
+    "Name": "Rec Center classic",
+    "ReplicationId": "b1ecae88-979d-4c61-a1c0-b34357232d9a",
+    "AssetName": "rec_center_classic",
+    "SceneName": "reccenter_classic",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 1
+  },
+  {
+    "Name": "Charades",
+    "ReplicationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
+    "SceneName": "charades",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 5000,
+    "LocationEnum": 2
+  },
+  {
+    "Name": "Lake",
+    "ReplicationId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+    "SceneName": "discgolf",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 3001,
+    "LocationEnum": 3
+  },
+  {
+    "Name": "Propulsion",
+    "ReplicationId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+    "SceneName": "Discgolf_Propulsion",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 3000,
+    "LocationEnum": 4
+  },
+  {
+    "Name": "Dodgeball",
+    "ReplicationId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+    "SceneName": "dodgeball",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 8000,
+    "LocationEnum": 5
+  },
+  {
+    "Name": "The Lounge",
+    "ReplicationId": "a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+    "SceneName": "eventroom",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": false,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 6
+  },
+  {
+    "Name": "Paddleball",
+    "ReplicationId": "d89f74fa-d51e-477a-a425-025a891dd499",
+    "SceneName": "paddleball",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 7000,
+    "LocationEnum": 7
+  },
+  {
+    "Name": "River",
+    "ReplicationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+    "SceneName": "paintball",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 2003,
+    "LocationEnum": 8
+  },
+  {
+    "Name": "Homestead",
+    "ReplicationId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+    "SceneName": "paintball2_open",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 2001,
+    "LocationEnum": 9
+  },
+  {
+    "Name": "Quarry",
+    "ReplicationId": "ff4c6427-7079-4f59-b22a-69b089420827",
+    "SceneName": "Paintball_Castle",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 2002,
+    "LocationEnum": 10
+  },
+  {
+    "Name": "Clear Cut",
+    "ReplicationId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+    "SceneName": "Paintball_ClearCut",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 2000,
+    "LocationEnum": 11
+  },
+  {
+    "Name": "Spillway",
+    "ReplicationId": "58763055-2dfb-4814-80b8-16fac5c85709",
+    "SceneName": "Paintball_Dam",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 2004,
+    "LocationEnum": 12
+  },
+  {
+    "Name": "Quest For The Golden Trophy",
+    "ReplicationId": "91e16e35-f48f-4700-ab8a-a1b79e50e51b",
+    "SceneName": "Quest_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Armory",
+      "Quest_Hallway1",
+      "Quest_Hallway2",
+      "Quest_Hallway3",
+      "Quest_DeadIsland",
+      "Quest_Hallway4",
+      "Quest_Library",
+      "Quest_Hallway5",
+      "Quest_Battlefield",
+      "Quest_Cafeteria"
+    ],
+    "MaxPlayers": 4,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 13
+  },
+  {
+    "Name": "Quest For The Golden Trophy and Crimson Cauldron",
+    "ReplicationId": "83d06153-5164-43e6-b222-b6f949786131",
+    "SceneName": "Quest_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Armory",
+      "Quest_Hallway1",
+      "Quest_Hallway2",
+      "Quest_Hallway3",
+      "Quest_DeadIsland",
+      "Quest_Hallway4",
+      "Quest_Library",
+      "Quest_Hallway5",
+      "Quest_Battlefield",
+      "Quest_Goblin2_CastleCourtyard",
+      "Quest_Goblin2_Forest1",
+      "Quest_Goblin2_GoblinCamp",
+      "Quest_Goblin2_Forest2",
+      "Quest_Goblin2_Bog",
+      "Quest_Goblin2_Mines1",
+      "Quest_Goblin2_BoilerRoom",
+      "Quest_Goblin2_BellTowerStairs",
+      "Quest_Goblin2_BellTowerArena",
+    ],
+    "MaxPlayers": 4,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 13
+  },
+  {
+    "Name": "The Rise Of JumboTron",
+    "ReplicationId": "acc06e66-c2d0-4361-b0cd-46246a4c455c",
+    "SceneName": "Quest_Scifi_Additive",
+    "RequiredSubSceneNames": [
+      "Quest_Scifi_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Scifi_Armory",
+      "Quest_Scifi_Battlefield1",
+      "Quest_Scifi_Hallway1",
+      "Quest_Scifi_Hallway2",
+      "Quest_Scifi_Reception",
+      "Quest_Scifi_StadiumConcession",
+      "Quest_Scifi_StadiumEntry",
+      "Quest_Scifi_Garage",
+      "Quest_Scifi_Cargo1",
+      "Quest_Scifi_Stadium"
+    ],
+    "MaxPlayers": 4,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 14
+  },
+  {
+    "Name": "Curse of the Crimson Cauldron",
+    "ReplicationId": "949fa41f-4347-45c0-b7ac-489129174045",
+    "SceneName": "Quest_Goblin2_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Goblin2_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Goblin2_Armory",
+      "Quest_Goblin2_CastleCourtyard",
+      "Quest_Goblin2_Forest1",
+      "Quest_Goblin2_GoblinCamp",
+      "Quest_Goblin2_Forest2",
+      "Quest_Goblin2_Bog",
+      "Quest_Goblin2_Mines1",
+      "Quest_Goblin2_BoilerRoom",
+      "Quest_Goblin2_BellTowerStairs",
+      "Quest_Goblin2_BellTowerArena"
+    ],
+    "MaxPlayers": 4,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 15
+  },
+  {
+    "Name": "The Isle of Lost Skulls",
+    "ReplicationId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+    "SceneName": "Quest_Pirate1_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Pirate1_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Pirate1_Hallway1",
+      "Quest_Pirate1_Hallway2",
+      "Quest_Pirate1_ShipDeck",
+      "Quest_Pirate1_Beach1",
+      "Quest_Pirate1_Beach2",
+      "Quest_Pirate1_Caves1",
+      "Quest_Pirate1_SunkenShip",
+      "Quest_Pirate1_BossArena"
+    ],
+    "MaxPlayers": 3,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 16
+  },
+  {
+    "Name": "Soccer",
+    "ReplicationId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+    "SceneName": "soccer",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 6000,
+    "LocationEnum": 17
+  },
+  {
+    "Name": "Art Testing",
+    "ReplicationId": "42699ed2-0c1b-4f3d-93a2-ce01dfce7a79",
+    "SceneName": "ArtTesting",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 1,
+    "ReleaseStatus": 0,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 18
+  },
+  {
+    "Name": "Performance Hall",
+    "ReplicationId": "9932f88f-3929-43a0-a012-a40b5128e346",
+    "SceneName": "PerformanceHall",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 40,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 19
+  },
+  {
+    "Name": "PSVR Room Calibration",
+    "ReplicationId": "f5fbd9c9-e853-4036-9d48-5f68e861af04",
+    "SceneName": "room_calibration",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 1,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 20
+  },
+  {
+    "Name": "Park",
+    "ReplicationId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+    "SceneName": "Park",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": false,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 21
+  },
+  {
+    "Name": "Warehouse",
+    "ReplicationId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+    "SceneName": "Arena_Hangar3",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": 0,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": true,
+      "TeamOutfitColorEmissionAmount": 0.6,
+      "CustomTeamColors": [
+        {
+          "Team": 0,
+          "Color": {
+            "r": 0.38039216,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 0,
+            "g": 0.1882353,
+            "b": 1,
+            "a": 1
+          }
+        },
+        {
+          "Team": 1,
+          "Color": {
+            "r": 1,
+            "g": 0.11764706,
+            "b": 0.41960785,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 1,
+            "g": 0,
+            "b": 0.15686275,
+            "a": 1
+          }
+        }
+      ]
+    },
+    "GiftContext": 9000,
+    "LocationEnum": 22
+  },
+  {
+    "Name": "Warehouse_clasic",
+    "ReplicationId": "efa036bb-cc8e-49dc-91ca-8a0d4ceab0c5",
+    "AssetName": "Arena_classic",
+    "SceneName": "Arena_Hangar_classic",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": 0,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": true,
+      "TeamOutfitColorEmissionAmount": 0.6,
+      "CustomTeamColors": [
+        {
+          "Team": 0,
+          "Color": {
+            "r": 0.38039216,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 0,
+            "g": 0.1882353,
+            "b": 1,
+            "a": 1
+          }
+        },
+        {
+          "Team": 1,
+          "Color": {
+            "r": 1,
+            "g": 0.11764706,
+            "b": 0.41960785,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 1,
+            "g": 0,
+            "b": 0.15686275,
+            "a": 1
+          }
+        }
+      ]
+    },
+    "GiftContext": 9000,
+    "LocationEnum": 22
+  },
+  {
+    "Name": "CyberJunk City",
+    "ReplicationId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+    "SceneName": "Arena_Cyberjunk_City",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": 0,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": true,
+      "TeamOutfitColorEmissionAmount": 0.6,
+      "CustomTeamColors": [
+        {
+          "Team": 1,
+          "Color": {
+            "r": 1,
+            "g": 0.58431375,
+            "b": 0.15294118,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          }
+        },
+        {
+          "Team": 0,
+          "Color": {
+            "r": 0.18431373,
+            "g": 1,
+            "b": 0.5921569,
+            "a": 1
+          },
+          "AlternateColor": {
+            "r": 0,
+            "g": 0.41960785,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ]
+    },
+    "GiftContext": 9000,
+    "LocationEnum": 23
+  },
+  {
+    "Name": "Maker Room",
+    "ReplicationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+    "SceneName": "Basement",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 40,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": false,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 24
+  },
+  {
+    "Name": "Frontier Squads",
+    "ReplicationId": "253fa009-6e65-4c90-91a1-7137a56a267f",
+    "SceneName": "RecRoyale_Frontier",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 18,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": 1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 25
+  },
+  {
+    "Name": "Frontier Solos",
+    "ReplicationId": "b010171f-4875-4e89-baba-61e878cd41e1",
+    "SceneName": "RecRoyale_Frontier",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 16,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": 0,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 26
+  },
+  {
+    "Name": "Crescendo of the Blood Moon",
+    "ReplicationId": "49cb8993-a956-43e2-86f4-1318f279b22a",
+    "SceneName": "Quest_Dracula1_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Dracula1_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Dracula1_Township",
+      "Quest_Dracula1_CarriageRide",
+      "Quest_Dracula1_CastleEntry",
+      "Quest_Dracula1_CastleMainFoyer",
+      "Quest_Dracula1_Gallery",
+      "Quest_Dracula1_Library",
+      "Quest_Dracula1_CastleMainFoyer",
+      "Quest_Dracula1_Park",
+      "Quest_Dracula1_Park",
+      "Quest_Dracula1_Dungeon",
+      "Quest_Dracula1_CastleMainFoyer",
+      "Quest_Dracula1_BossRoom"
+    ],
+    "MaxPlayers": 3,
+    "ReleaseStatus": 1,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 27
+  },
+  {
+    "Name": "PaddleDodgeball",
+    "ReplicationId": "4c690d01-77d3-477c-993f-5b64b7d0933d",
+    "SceneName": "Quest_Dracula1_additive",
+    "RequiredSubSceneNames": [
+      "Quest_Dracula1_Foyer"
+    ],
+    "LevelRoomSubSceneNames": [
+      "Quest_Dracula1_CastleEntry"
+    ],
+    "MaxPlayers": 3,
+    "ReleaseStatus": 1,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 28
+  },
+  {
+    "Name": "Bowling Alley",
+    "ReplicationId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+    "SceneName": "BowlingAlley",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 20,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 29
+  },
+  {
+    "Name": "Animation Recording Studio",
+    "ReplicationId": "a95c349c-0f96-4c2d-a4c8-4969ffa8ea44",
+    "SceneName": "AnimationRecordingStudio",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 1,
+    "ReleaseStatus": 0,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 30
+  }
+]
