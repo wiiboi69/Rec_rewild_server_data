@@ -1,0 +1,1280 @@
+[
+  {
+    "Name": "Calibration",
+    "ReplicationId": "30040e05-b7b9-9f44-eb08-b9f154d2ecfc",
+    "Description": "PSVR room calibration",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "fe66923e-4034-4ec4-4bca-11a973bf5515",
+        "RoomSceneLocationId": "f5fbd9c9-e853-4036-9d48-5f68e861af04",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 1,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "DormRoom",
+    "ReplicationId": "68251132-5662-5c34-08b1-4a830a27955b",
+    "Description": "Your private room",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "92084aee-1f44-a3b4-18f1-375601606506",
+        "RoomSceneLocationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 1,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "RecCenter",
+    "ReplicationId": "02ed2947-2db9-62c4-49b0-76d70fd432bb",
+    "Description": "A social hub to meet and mingle with friends new and old.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "6016e455-652d-54d4-3838-ecc6c9aa4ca8",
+        "RoomSceneLocationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 12,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "3DCharades",
+    "ReplicationId": "1080b559-5294-b904-5b82-2d2aa4dea17b",
+    "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": false,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "b7150f3d-393e-ac74-2801-8a834b13e2bc",
+        "RoomSceneLocationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "DiscGolfLake",
+    "ReplicationId": "9365f155-a900-a864-1aa6-ae0500026994",
+    "Description": "A leisurely stroll through the grass. Throw your disc into the goal. Sounds easy, right?",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "6cd09971-c9fb-8e44-9b7f-3cb9ff5f6bd0",
+        "RoomSceneLocationId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "DiscGolfPropulsion",
+    "ReplicationId": "e002b533-ae3f-0e64-8941-73ed5eb2303c",
+    "Description": "Throw your disc through hazards and around wind machines on this challenging course!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "e687ebed-6502-ad24-2ae1-d4a1db441d34",
+        "RoomSceneLocationId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Dodgeball",
+    "ReplicationId": "aa1ecc2e-fad7-57d4-f840-a4b39e911313",
+    "Description": "Throw dodgeballs to knock out your friends in this gym classic!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "27dd5218-dbea-b444-9b7c-a64e687aae67",
+        "RoomSceneLocationId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 6,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Paddleball",
+    "ReplicationId": "8dfa5b25-d0a7-21e4-0a3e-b77e3ba6a8d0",
+    "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": false,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "11512b3c-bf64-acc4-7bf6-139786237328",
+        "RoomSceneLocationId": "d89f74fa-d51e-477a-a425-025a891dd499",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 2,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Paintball",
+    "ReplicationId": "42b5faef-e211-4f02-98e1-f4633e18209c",
+    "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": true,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "River",
+        "ReplicationId": "84545710-2bb4-4867-ad8b-24863a16d1b2",
+        "RoomSceneLocationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Homestead",
+        "ReplicationId": "f6709dc2-af81-46fc-88ba-f88f6c5035aa",
+        "RoomSceneLocationId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Quarry",
+        "ReplicationId": "1c549cfb-455b-4f5e-b15e-467702a71240",
+        "RoomSceneLocationId": "ff4c6427-7079-4f59-b22a-69b089420827",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Clearcut",
+        "ReplicationId": "28363a22-f0bb-4e46-8346-d76e8ac634f7",
+        "RoomSceneLocationId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Spillway",
+        "ReplicationId": "7d661e29-f036-4fe9-8e9d-4b919fee638d",
+        "RoomSceneLocationId": "58763055-2dfb-4814-80b8-16fac5c85709",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "PaintballVR",
+    "ReplicationId": "6672b30b-108c-cdc4-9873-917bbd882a27",
+    "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": true,
+    "CloningAllowed": true,
+    "SupportsScreens": false,
+    "SupportsWalkVR": false,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "River",
+        "ReplicationId": "a4d7afc1-ae7a-8e04-1bea-f7d71df384fd",
+        "RoomSceneLocationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Homestead",
+        "ReplicationId": "d686129f-fdf7-1954-a9f6-f0a80d1af234",
+        "RoomSceneLocationId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Quarry",
+        "ReplicationId": "a5ba53f2-a7cf-d3b4-8836-80fa08e02a27",
+        "RoomSceneLocationId": "ff4c6427-7079-4f59-b22a-69b089420827",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Clearcut",
+        "ReplicationId": "1636a319-9826-bfc4-18f8-ee1b1be6f806",
+        "RoomSceneLocationId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "Spillway",
+        "ReplicationId": "9a5a9875-67bb-f444-e804-0e0296d3c19c",
+        "RoomSceneLocationId": "58763055-2dfb-4814-80b8-16fac5c85709",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "GoldenTrophy",
+    "ReplicationId": "8b5f720a-29b0-fee4-1aab-a76d99405a21",
+    "Description": "The goblin king stole Coach's Golden Trophy. Team up and embark on an epic quest to recover it!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "3518de14-8412-96f4-db0a-41abe0196bbe",
+        "RoomSceneLocationId": "91e16e35-f48f-4700-ab8a-a1b79e50e51b",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "TheRiseofJumbotron",
+    "ReplicationId": "0fe6e761-9adc-14e4-2b7c-ecf2e365b80a",
+    "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "4a6968bf-0283-2d34-ca18-29f1145e1f69",
+        "RoomSceneLocationId": "acc06e66-c2d0-4361-b0cd-46246a4c455c",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "CrimsonCauldron",
+    "ReplicationId": "fa6d5c07-c7fa-38a4-eb98-acaee6c8fd7b",
+    "Description": "Can your band of adventurers brave the enchanted wilds, and lift the curse of the crimson cauldron?",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "4a169c2f-28b2-e9a4-7ab1-61c9c270b1ab",
+        "RoomSceneLocationId": "949fa41f-4347-45c0-b7ac-489129174045",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "IsleOfLostSkulls",
+    "ReplicationId": "51fe6f77-a545-66d4-684c-20505d9472eb",
+    "Description": "Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "02d23e1d-4c1a-15b4-aba5-98458d750417",
+        "RoomSceneLocationId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 3,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Soccer",
+    "ReplicationId": "99e24047-c765-8584-78d0-f55d604ecb00",
+    "Description": "Teams of three run around slamming themselves into an over-sized soccer ball. Goal!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "9a4b4871-28dc-4b24-8b8f-e0914db002eb",
+        "RoomSceneLocationId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 6,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "LaserTag",
+    "ReplicationId": "8cf5a0b5-d683-51f4-2bb7-57821b533cad",
+    "Description": "Teams battle each other and waves of robots.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": true,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Hangar",
+        "ReplicationId": "8f8fcaf8-7b13-e114-880c-72ee8c9fcb78",
+        "RoomSceneLocationId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      },
+      {
+        "Name": "CyberJunkCity",
+        "ReplicationId": "333f409d-f9ad-46c9-b6fb-b0bbd30cb0b2",
+        "RoomSceneLocationId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "LaserTagCyberJunk",
+    "ReplicationId": "c47969aa-c9ac-85e4-ea35-470f2a11d47f",
+    "Description": "Teams battle each other and waves of robots in a totally cyber neon future city.",
+    "Accessibility": 0,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "d59f7e16-9f27-6924-a899-2739bfc056fe",
+        "RoomSceneLocationId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "RecRoyaleSquads",
+    "ReplicationId": "224046e6-4159-49eb-98cf-1e602849ce54",
+    "Description": "Squads of three battle it out on Frontier Island. Last squad standing wins!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "1d282c2d-6edc-4910-afb3-48fbb9ad74a4",
+        "RoomSceneLocationId": "253fa009-6e65-4c90-91a1-7137a56a267f",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": true,
+        "MaxPlayers": 18,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "RecRoyaleVR",
+    "ReplicationId": "729cddc7-1488-8004-3abc-b7ab05c3ec83",
+    "Description": "Squads of three battle it out on Frontier Island. Last squad standing wins!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": false,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": false,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "1edd6d85-40fb-7e34-aa26-8ef754ef654e",
+        "RoomSceneLocationId": "253fa009-6e65-4c90-91a1-7137a56a267f",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": true,
+        "MaxPlayers": 18,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "RecRoyaleSolos",
+    "ReplicationId": "f4a10613-c6dc-a574-6abd-17e853cd223c",
+    "Description": "Battle it out on Frontier Island. Last person standing wins!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "85b43509-77f7-3884-3a6b-9a4e737d6d11",
+        "RoomSceneLocationId": "b010171f-4875-4e89-baba-61e878cd41e1",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": true,
+        "MaxPlayers": 16,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Lounge",
+    "ReplicationId": "94b533d0-08b3-7964-c89c-491906e032b9",
+    "Description": "A low-key lounge to chill with your friends. Great for private parties!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "c9e928de-ed1f-d564-38af-9bf525ac0feb",
+        "RoomSceneLocationId": "a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "PerformanceHall",
+    "ReplicationId": "22ab0d3c-3d7d-70e4-eb5c-c8c47cca1906",
+    "Description": "A theater for plays, music, comedy and other performances.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "b55204c1-9a48-6ea4-fbd0-69fb125a68cf",
+        "RoomSceneLocationId": "9932f88f-3929-43a0-a012-a40b5128e346",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 40,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "MakerRoom",
+    "ReplicationId": "3a2d8a48-2a7e-4344-bb88-254ea105043e",
+    "Description": "This room is a blank canvas. Make it into whatever you like!",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "aa889faf-91c8-b7d4-5945-ab7e714f7efa",
+        "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 40,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Park",
+    "ReplicationId": "00788628-81ba-3df4-da7b-142051bdff98",
+    "Description": "A sprawling park with amphitheater, play fields, and a cave.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "570a59bf-b4e2-6db4-ca9a-42329563dd30",
+        "RoomSceneLocationId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "ArtTesting",
+    "ReplicationId": "cc338cd1-9883-0c14-99b3-ab069a360ee3",
+    "Description": "bla",
+    "Accessibility": 0,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 0,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "33bdd61b-bd99-abe4-6943-3032c741f5e8",
+        "RoomSceneLocationId": "42699ed2-0c1b-4f3d-93a2-ce01dfce7a79",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 1,
+        "ReleaseStatus": 0
+      }
+    ]
+  },
+  {
+    "Name": "River",
+    "ReplicationId": "af923b9b-d5fd-4435-919b-d8621de3865e",
+    "Description": "The original outdoor paintball course. Simple, balanced, classic.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "dc445d24-01cf-43f9-a7c4-33f432514735",
+        "RoomSceneLocationId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Homestead",
+    "ReplicationId": "3369e698-ad83-43cf-bf44-5767da6de2b9",
+    "Description": "A day on the farm. Great for asymmetrical battles!",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "daaa8763-868d-4081-9e8d-e931c111cc90",
+        "RoomSceneLocationId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Quarry",
+    "ReplicationId": "37e59cf8-50c5-4075-8e61-f51515836101",
+    "Description": "The sun sets on this construction site in the desert. Great for sniping battles!",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "f083ff9a-98af-4d8b-b7ff-5b84a66367d5",
+        "RoomSceneLocationId": "ff4c6427-7079-4f59-b22a-69b089420827",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Clearcut",
+    "ReplicationId": "af8b3bdd-4084-488f-aa4a-b78dec436753",
+    "Description": "The sun rises on this logging camp in the forest. Great for mid-range splatting!",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "c5f45037-8c60-494d-ad62-3e5168560b36",
+        "RoomSceneLocationId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Spillway",
+    "ReplicationId": "2d250de9-9bb2-4168-96a6-a9a0e14aa2ba",
+    "Description": "Night shift at the hydroelectric plant. Great for stealthy splatting!",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "d336999f-9db0-42fc-8af5-592e9043102f",
+        "RoomSceneLocationId": "58763055-2dfb-4814-80b8-16fac5c85709",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Lake",
+    "ReplicationId": "12131500-c742-437c-8487-b9e1e2edc381",
+    "Description": "A leisurely trail to the lake and beyond.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "28253579-64cb-421b-988b-9fea890fd129",
+        "RoomSceneLocationId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "PropulsionTestRange",
+    "ReplicationId": "fd06572c-e828-440d-8783-d87c792facdd",
+    "Description": "The science department left some of their equipment laying around. What will you do with it?",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "cd82c0aa-5dbc-4db3-ade3-30576d3bc473",
+        "RoomSceneLocationId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Gym",
+    "ReplicationId": "cb7ce944-9415-4d6e-aa6a-274390d2f849",
+    "Description": "A school gymnasium for smaller sporting events.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "8cecdc5b-d17b-4eba-9dd3-7b0ca54d3fd2",
+        "RoomSceneLocationId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Stadium",
+    "ReplicationId": "01fbdc4c-1a74-4843-8fe3-c64fc46b606e",
+    "Description": "A professional stadium for larger sporting events.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "b4f8632d-ae8b-4c3d-a433-0687131f8507",
+        "RoomSceneLocationId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "Hangar",
+    "ReplicationId": "4830b10c-0faf-4e73-8244-10cf55a503d9",
+    "Description": "A late-eighties-style laser tag battle arcade.",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "26330026-ebc7-4d44-8c85-4f38d2ad30a1",
+        "RoomSceneLocationId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "CyberJunkCity",
+    "ReplicationId": "c3f801c2-13dd-aed4-0862-85d095bca56b",
+    "Description": "A late-2080s-style cyberpunk dystopian laser tag battle arcade",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "6e0edd15-b904-f074-3b1f-cec488eba1a3",
+        "RoomSceneLocationId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 20,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "DodgeballVR",
+    "ReplicationId": "c29d7c49-f4df-45cd-9a53-a6a192e44fbd",
+    "Description": "Throw dodgeballs to knock out your friends in this gym classic!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": false,
+    "SupportsWalkVR": false,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "bcbda991-93e7-4d05-b2e2-7c9512e4d4f2",
+        "RoomSceneLocationId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 6,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "GoKartQuest",
+    "ReplicationId": "6d15defa-000a-43f6-86d9-2d95b42cdf4b",
+    "Description": "New",
+    "Accessibility": 0,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 1,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "26aea6ef-6917-4b54-ab41-e634a400cecb",
+        "RoomSceneLocationId": "49cb8993-a956-43e2-86f4-1318f279b22a",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 3,
+        "ReleaseStatus": 1
+      }
+    ]
+  },
+  {
+    "Name": "PaddleDodgeball",
+    "ReplicationId": "79cabe02-4f75-40e4-b474-0c7128d186ca",
+    "Description": "New",
+    "Accessibility": 0,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 1,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "a2252f1c-029c-4a05-a937-1a4144487fad",
+        "RoomSceneLocationId": "4c690d01-77d3-477c-993f-5b64b7d0933d",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 3,
+        "ReleaseStatus": 1
+      }
+    ]
+  },
+  {
+    "Name": "Bowling",
+    "ReplicationId": "0ba2a62a-2d02-403b-9f85-7472e472b632",
+    "Description": "Hang out with friends, bowl a few games, eat snacks!",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "d61f36d3-f702-4002-a065-e1b6a59d4036",
+        "RoomSceneLocationId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": true,
+        "UseAgeBasedMatchmaking": true,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "BowlingAlley",
+    "ReplicationId": "63de6dd3-8b9a-4ce5-afbe-9e01fefcad02",
+    "Description": "Lone Shoe Lanes is the hottest hangout in town. ",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "b492f0d4-5f72-4429-9ea5-decf369e7aa7",
+        "RoomSceneLocationId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+        "IsSandbox": true,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 8,
+        "ReleaseStatus": 2
+      }
+    ]
+  },
+  {
+    "Name": "AnimationRecordingStudio",
+    "ReplicationId": "3c6fd16c-43c7-4c0e-bfd9-f90eaf077ba7",
+    "Description": "Record Animations",
+    "Accessibility": 2,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 0,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": "8fe5818c-d466-4ffb-b502-f7d5f67efc7a",
+        "RoomSceneLocationId": "a95c349c-0f96-4c2d-a4c8-4969ffa8ea44",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": false,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 1,
+        "ReleaseStatus": 0
+      }
+    ]
+  },
+  {
+    "Name": "Quest For The Golden Trophy and Crimson Cauldron",
+    "ReplicationId": "fdc45441-fc89-4cc7-869b-28bf01af424e",
+    "Description": "Golden Trophy and Crimson Cauldron into one room",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": false,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "Home",
+        "ReplicationId": " 42f3638a-4bbb-4e83-b58d-f314ade05e1b",
+        "RoomSceneLocationId": "83d06153-5164-43e6-b222-b6f949786131",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
+  }
+]
