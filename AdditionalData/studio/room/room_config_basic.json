@@ -19,7 +19,7 @@
         "CanMatchmakeInto": true,
         "SupportsJoinInProgress": false,
         "UseLevelBasedMatchmaking": false,
-        "UseAgeBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": true,
         "UseRecRoyaleMatchmaking": false,
         "MaxPlayers": 1,
         "ReleaseStatus": 2
@@ -1256,7 +1256,7 @@
     "Description": "Golden Trophy and Crimson Cauldron into one room",
     "Accessibility": 1,
     "SupportsLevelVoting": false,
-    "CloningAllowed": false,
+    "CloningAllowed": true,
     "SupportsScreens": true,
     "SupportsWalkVR": true,
     "SupportsTeleportVR": true,
