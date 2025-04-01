@@ -52,7 +52,7 @@
       "CustomTeamColors": []
     },
     "GiftContext": 0,
-    "LocationEnum": 1
+    "LocationEnum": 32
   },
   {
     "Name": "Charades",
@@ -600,7 +600,7 @@
       ]
     },
     "GiftContext": 9000,
-    "LocationEnum": 22
+    "LocationEnum": 33
   },
   {
     "Name": "CyberJunk City",
