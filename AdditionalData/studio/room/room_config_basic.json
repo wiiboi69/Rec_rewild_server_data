@@ -768,13 +768,13 @@
     "Name": "ArtTesting",
     "ReplicationId": "cc338cd1-9883-0c14-99b3-ab069a360ee3",
     "Description": "bla",
-    "Accessibility": 0,
+    "Accessibility": 1,
     "SupportsLevelVoting": false,
     "CloningAllowed": false,
     "SupportsScreens": true,
     "SupportsWalkVR": true,
     "SupportsTeleportVR": true,
-    "ReleaseStatus": 0,
+    "ReleaseStatus": 2,
     "Scenes": [
       {
         "Name": "Home",
@@ -787,7 +787,7 @@
         "UseAgeBasedMatchmaking": false,
         "UseRecRoyaleMatchmaking": false,
         "MaxPlayers": 1,
-        "ReleaseStatus": 0
+        "ReleaseStatus": 2
       }
     ]
   },
