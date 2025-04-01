@@ -438,7 +438,7 @@
     "RequiredSubSceneNames": [],
     "LevelRoomSubSceneNames": [],
     "MaxPlayers": 1,
-    "ReleaseStatus": 0,
+    "ReleaseStatus": 2,
     "EmptyOnSandboxClone": true,
     "SupportedGameMode": -1,
     "GameTeamColorSettings": {
