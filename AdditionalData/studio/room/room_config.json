@@ -55,6 +55,25 @@
     "LocationEnum": 32
   },
   {
+    "Name": "Rec Center classic",
+    "ReplicationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+    "AssetName": "rrs_hub_data",
+    "SceneName": "rrs_hub",
+    "RequiredSubSceneNames": [],
+    "LevelRoomSubSceneNames": [],
+    "MaxPlayers": 4,
+    "ReleaseStatus": 2,
+    "EmptyOnSandboxClone": true,
+    "SupportedGameMode": -1,
+    "GameTeamColorSettings": {
+      "TeamOutfitColorEmissionEnabled": false,
+      "TeamOutfitColorEmissionAmount": 0,
+      "CustomTeamColors": []
+    },
+    "GiftContext": 0,
+    "LocationEnum": 33
+  },
+  {
     "Name": "Charades",
     "ReplicationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
     "SceneName": "charades",
