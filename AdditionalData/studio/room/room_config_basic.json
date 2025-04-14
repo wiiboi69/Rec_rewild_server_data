@@ -1276,5 +1276,32 @@
         "ReleaseStatus": 2
       }
     ]
+  },
+  {
+    "Name": "rewild_studio_hub",
+    "ReplicationId": "rewild_studio_hub",
+    "Description": "A rewild studio hub room.",
+    "Accessibility": 1,
+    "SupportsLevelVoting": false,
+    "CloningAllowed": true,
+    "SupportsScreens": true,
+    "SupportsWalkVR": true,
+    "SupportsTeleportVR": true,
+    "ReleaseStatus": 2,
+    "Scenes": [
+      {
+        "Name": "rrs_hub",
+        "ReplicationId": " 25760f7b-ed23-40a8-b73b-2f880854c901",
+        "RoomSceneLocationId": "74c62a36-4362-468b-81ec-65c45bfe0e5f",
+        "IsSandbox": false,
+        "CanMatchmakeInto": true,
+        "SupportsJoinInProgress": true,
+        "UseLevelBasedMatchmaking": false,
+        "UseAgeBasedMatchmaking": false,
+        "UseRecRoyaleMatchmaking": false,
+        "MaxPlayers": 4,
+        "ReleaseStatus": 2
+      }
+    ]
   }
 ]
