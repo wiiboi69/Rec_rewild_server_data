@@ -55,8 +55,8 @@
     "LocationEnum": 32
   },
   {
-    "Name": "Rec Center classic",
-    "ReplicationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+    "Name": "Zesty Studio Hub",
+    "ReplicationId": "74c62a36-4362-468b-81ec-65c45bfe0e5f",
     "AssetName": "rrs_hub_data",
     "SceneName": "rrs_hub",
     "RequiredSubSceneNames": [],
