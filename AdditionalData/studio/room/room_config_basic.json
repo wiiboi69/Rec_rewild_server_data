@@ -1303,5 +1303,99 @@
         "ReleaseStatus": 2
       }
     ]
-  }
+  },
+    {
+      "Name": "StuntRunner",
+      "ReplicationId": "96797ca7-67a4-4c8d-b50f-a956dfd6f525",
+      "Description": "Sprint, climb, and wall jump in this high-speed obstacle course where every second counts!",
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": false,
+      "ReleaseStatus": 2,
+      "Scenes": [
+        {
+          "Name": "StuntRunner",
+          "ReplicationId": "f8a71ce1-c989-4e00-9e10-3f04c241f6f3",
+          "RoomSceneLocationId": "b7281665-a715-4051-826b-8e08e69c6172",
+          "IsSandbox": false,
+          "CanMatchmakeInto": true,
+          "SupportsJoinInProgress": false,
+          "UseLevelBasedMatchmaking": false,
+          "UseAgeBasedMatchmaking": false,
+          "UseRecRoyaleMatchmaking": false,
+          "MaxPlayers": 12,
+          "ReleaseStatus": 2
+        },
+        {
+          "Name": "TheMainEvent",
+          "ReplicationId": "cacc6e68-644a-448d-b83f-59ea690318ec",
+          "RoomSceneLocationId": "3a636bd2-f896-424c-9225-c184522c0d87",
+          "IsSandbox": false,
+          "CanMatchmakeInto": false,
+          "SupportsJoinInProgress": false,
+          "UseLevelBasedMatchmaking": false,
+          "UseAgeBasedMatchmaking": false,
+          "UseRecRoyaleMatchmaking": false,
+          "MaxPlayers": 4,
+          "ReleaseStatus": 2
+        }
+      ]
+    },
+    {
+      "Name": "StuntRunnerBaseRoom",
+      "ReplicationId": "ea3cacc0-e075-4b7f-92e3-21a81ab24e3e",
+      "Description": "A soundstage warehouse used to film Stunt Runner and other RecTV shows.",
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "CloningAllowed": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "ReleaseStatus": 2,
+      "Scenes": [
+        {
+          "Name": "Home",
+          "ReplicationId": "57ec15a2-34b5-42d4-a5d8-ddad6888e0e3",
+          "RoomSceneLocationId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+          "IsSandbox": true,
+          "CanMatchmakeInto": true,
+          "SupportsJoinInProgress": true,
+          "UseLevelBasedMatchmaking": false,
+          "UseAgeBasedMatchmaking": false,
+          "UseRecRoyaleMatchmaking": false,
+          "MaxPlayers": 20,
+          "ReleaseStatus": 2
+        }
+      ]
+    },
+    {
+      "Name": "Orientation",
+      "ReplicationId": "5a8e804a-d082-47cd-ab71-039aa680da14",
+      "Description": "An introductory tour of Rec Room!",
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "ReleaseStatus": 2,
+      "Scenes": [
+        {
+          "Name": "Home",
+          "ReplicationId": "2c9da604-fdc8-47b7-b527-7a692ce97a9b",
+          "RoomSceneLocationId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8",
+          "IsSandbox": false,
+          "CanMatchmakeInto": true,
+          "SupportsJoinInProgress": false,
+          "UseLevelBasedMatchmaking": false,
+          "UseAgeBasedMatchmaking": true,
+          "UseRecRoyaleMatchmaking": false,
+          "MaxPlayers": 1,
+          "ReleaseStatus": 2
+        }
+      ]
+    }
 ]
