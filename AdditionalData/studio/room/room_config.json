@@ -818,6 +818,7 @@
   {
       "Name": "Orientation",
       "ReplicationId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8",
+      "AssetName": "OOBE_New_setup",
       "SceneName": "Orientation_additive",
       "RequiredSubSceneNames": [],
       "LevelRoomSubSceneNames": [
