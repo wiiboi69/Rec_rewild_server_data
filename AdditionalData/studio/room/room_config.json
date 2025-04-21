@@ -814,5 +814,276 @@
     },
     "GiftContext": 0,
     "LocationEnum": 30
-  }
+  },
+  {
+      "Name": "Orientation",
+      "ReplicationId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8",
+      "SceneName": "Orientation_additive",
+      "RequiredSubSceneNames": [],
+      "LevelRoomSubSceneNames": [
+        "Orientation_Scene1",
+        "Orientation_Scene2",
+        "Orientation_Scene3",
+        "Orientation_PracticeGym",
+        "Orientation_Scene5",
+        "Orientation_Rewards"
+      ],
+      "MaxPlayers": 1,
+      "ReleaseStatus": 2,
+      "EmptyOnSandboxClone": true,
+      "SupportedGameMode": -1,
+      "GameTeamColorSettings": {
+        "TeamOutfitColorEmissionEnabled": false,
+        "TeamOutfitColorEmissionAmount": 0.0,
+        "CustomTeamColors": []
+      },
+      "GiftContext": 0,
+      "LocationEnum": 34
+    },
+  {
+      "Name": "StuntRunner",
+      "ReplicationId": "b7281665-a715-4051-826b-8e08e69c6172",
+      "SceneName": "StuntRunner_Lobby",
+      "RequiredSubSceneNames": [],
+      "LevelRoomSubSceneNames": [],
+      "MaxPlayers": 12,
+      "ReleaseStatus": 2,
+      "EmptyOnSandboxClone": true,
+      "SupportedGameMode": -1,
+      "GameTeamColorSettings": {
+        "TeamOutfitColorEmissionEnabled": false,
+        "TeamOutfitColorEmissionAmount": 0.0,
+        "CustomTeamColors": [
+          {
+            "Team": 0,
+            "Color": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 1,
+            "Color": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 2,
+            "Color": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 3,
+            "Color": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            }
+          }
+        ]
+      },
+      "GiftContext": 0,
+      "LocationEnum": 35
+    },
+    {
+      "Name": "StuntRunner The Main Event",
+      "ReplicationId": "3a636bd2-f896-424c-9225-c184522c0d87",
+      "SceneName": "StuntRunner_additive",
+      "RequiredSubSceneNames": [
+        "StuntRunner_Course1"
+      ],
+      "LevelRoomSubSceneNames": [
+        "StuntRunner_Course1",
+        "StuntRunner_Course2",
+        "StuntRunner_Course3",
+        "StuntRunner_Course4",
+        "StuntRunner_Course5",
+        "StuntRunner_Course6"
+      ],
+      "MaxPlayers": 4,
+      "ReleaseStatus": 2,
+      "EmptyOnSandboxClone": true,
+      "SupportedGameMode": -1,
+      "GameTeamColorSettings": {
+        "TeamOutfitColorEmissionEnabled": false,
+        "TeamOutfitColorEmissionAmount": 0.0,
+        "CustomTeamColors": [
+          {
+            "Team": 0,
+            "Color": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 1,
+            "Color": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 2,
+            "Color": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 3,
+            "Color": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            }
+          }
+        ]
+      },
+      "GiftContext": 0,
+      "LocationEnum": 36
+    },
+    {
+      "Name": "StuntRunner Base Room",
+      "ReplicationId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+      "SceneName": "StuntRunner_Baseroom",
+      "RequiredSubSceneNames": [],
+      "LevelRoomSubSceneNames": [],
+      "MaxPlayers": 20,
+      "ReleaseStatus": 2,
+      "EmptyOnSandboxClone": false,
+      "SupportedGameMode": -1,
+      "GameTeamColorSettings": {
+        "TeamOutfitColorEmissionEnabled": false,
+        "TeamOutfitColorEmissionAmount": 0.0,
+        "CustomTeamColors": [
+          {
+            "Team": 0,
+            "Color": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.0,
+              "g": 0.7016326,
+              "b": 0.72,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 1,
+            "Color": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.9019608,
+              "g": 0.24082345,
+              "b": 0.5413405,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 2,
+            "Color": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.23454893,
+              "g": 0.65699995,
+              "b": 0.32756564,
+              "a": 1.0
+            }
+          },
+          {
+            "Team": 3,
+            "Color": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            },
+            "AlternateColor": {
+              "r": 0.895,
+              "g": 0.65016687,
+              "b": 0.06264997,
+              "a": 1.0
+            }
+          }
+        ]
+      },
+      "GiftContext": 0,
+      "LocationEnum": 36
+    }
 ]
