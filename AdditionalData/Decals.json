@@ -4,8 +4,21 @@
     "name": "Class_Of_2018_Decal",
     "decal": "Avatar_Tshirt_ClassOF2018_Decal.png",
     "tiling": {
-      "x": 0,
-      "y": 0
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 1,
+      "y": 1
+    }
+  },
+  {
+    "guid": "br9hzhDoZUmIevgl7SJkmg",
+    "name": "Torso_Tee_ClassOf2019_Decal",
+    "decal": "Torso_Tee_ClassOf2019_Decal.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
     },
     "offset": {
       "x": 0,
@@ -13,9 +26,22 @@
     }
   },
   {
-    "guid": "br9hzhDoZUmIevgl7SJkmg",
-    "name": "Torso_Tee_ClassOf2019_Decal",
-    "decal": "Torso_Tee_ClassOf2019_Decal.png",
+    "guid": "TW_LhQH7vUKNrQqXC9IlOg",
+    "name": "DebuggerDecal",
+    "decal": "DebuggerDecal.png",
+    "tiling": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  {
+    "guid": "mOzYfRLaBUCj8iSFc942vQ",
+    "name": "lightrays",
+    "decal": "lightrays.png",
     "tiling": {
       "x": 1,
       "y": 1
