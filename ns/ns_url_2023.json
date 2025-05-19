@@ -1,0 +1,32 @@
+
+
+{
+  "API": "https://localhost:20221",
+  "Accounts": "https://localhost:20221",
+  "Auth": "https://localhost:20222/auth",
+  "BugReporting": "https://localhost:20221",
+  "CDN": "https://localhost:20223/cdn/file",
+  "Chat": "https://localhost:20221/chat",
+  "Clubs": "https://localhost:20221/Clubs",
+  "Commerce": "https://localhost:20224/Commerce",
+  "DataCollection": "https://localhost:20223/Collection/Data",
+  "Discovery": "https://localhost:20225/Discovery",
+  "Econ": "https://localhost:20221/econ",
+  "GameLogs": "https://localhost:20223/GameLogs",
+  "Images": "https://localhost:20223/img/file",
+  "Leaderboard": "https://localhost:20221/Leaderboard",
+  "Link": "https://localhost:20225/Link",
+  "Matchmaking": "https://localhost:20222/Match",
+  "Moderation": "https://localhost:20222/Moderation",
+  "Notifications": "https://localhost:20225/Notification",
+  "PlatformNotifications": "https://localhost:20225/Platform",
+  "PlayerSettings": "https://localhost:20221/PlayerSettings",
+  "RoomComments": "https://localhost:20224/Room/Comments",
+  "Rooms": "https://localhost:20224/Room/server",
+  "Storage": "https://localhost:20223/storage/file",
+  "Strings": "https://localhost:20223/Strings/api",
+  "StringsCDN": "https://localhost:20223/Strings/file",
+  "Studio": "https://localhost:20224/Room/Studio",
+  "WWW": "https://localhost:20223/web"
+}
+
