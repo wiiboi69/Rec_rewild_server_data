@@ -1,0 +1,132 @@
+{
+  "StoreItems": [
+    {
+      {
+      "GiftDrop": {
+        "GiftDropId": 1978,
+        "FriendlyName": "4-Star Unique Box",
+        "Tooltip": "A random 4-star item that you don't have.",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": true,
+        "QueryRedirectContext": 0,
+        "QueryRedirectRarity": 30,
+        "Unique": true,
+        "SubscribersOnly": false,
+        "Rarity": 30,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 44,
+        "ItemSetFriendlyName": "Star Boxes"
+      },
+      "PurchasableItemId": 539,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 800,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 720,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 1980,
+        "FriendlyName": "2-Star Unique Box",
+        "Tooltip": "A random 2-star item that you don't have.",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": true,
+        "QueryRedirectContext": 0,
+        "QueryRedirectRarity": 10,
+        "Unique": true,
+        "SubscribersOnly": false,
+        "Rarity": 10,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 44,
+        "ItemSetFriendlyName": "Star Boxes"
+      },
+      "PurchasableItemId": 541,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 200,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 180,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 1977,
+        "FriendlyName": "3-Star Unique Box",
+        "Tooltip": "A random 3-star item that you don't have.",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": true,
+        "QueryRedirectContext": 0,
+        "QueryRedirectRarity": 20,
+        "Unique": true,
+        "SubscribersOnly": false,
+        "Rarity": 20,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 44,
+        "ItemSetFriendlyName": "Star Boxes"
+      },
+      "PurchasableItemId": 538,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 500,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 450,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    }
+  ],
+  "SubscriberDiscountPercent": 10,
+  "StorefrontType": 2,
+  "NextUpdate": "2021-10-06T21:00:00Z",
+  "NewUntil": null
+}
