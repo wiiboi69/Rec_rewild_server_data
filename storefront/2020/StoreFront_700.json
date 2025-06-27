@@ -1,0 +1,340 @@
+{
+  "StoreItems": [
+    {
+      "GiftDrop": {
+        "GiftDropId": 2011,
+        "FriendlyName": "Root Beer",
+        "Tooltip": "A sixer of root beer to share with friends.",
+        "ConsumableItemDesc": "JfnVXFmilU6ysv-VbTAe3A",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 0,
+        "Context": 110000,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": null,
+        "ItemSetFriendlyName": ""
+      },
+      "PurchasableItemId": 572,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 50,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 45,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2471,
+        "FriendlyName": "Salted Pretzels",
+        "Tooltip": "A great snack to share with friends!",
+        "ConsumableItemDesc": "InQ25wQMGkG_bvuD5rf2Ag",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 0,
+        "Context": 110000,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 52,
+        "ItemSetFriendlyName": "Snickety Snacks"
+      },
+      "PurchasableItemId": 921,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 75,
+          "StorefrontSaleData": {
+            "SalePercent": 25,
+            "SaleStartDate": "2021-04-26T07:00:00Z",
+            "SaleEndDate": "2021-04-27T07:00:00Z"
+          }
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 67,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2470,
+        "FriendlyName": "Hawaiian Pizza",
+        "Tooltip": "A ham and pineapple pizza to share with friends.",
+        "ConsumableItemDesc": "_jnjYGBcyEWY5Ub4OezXcA",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 10,
+        "Context": 110000,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 33,
+        "ItemSetFriendlyName": "Pizza Aplenty"
+      },
+      "PurchasableItemId": 922,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 95,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 85,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2326,
+        "FriendlyName": "Assorted Donuts",
+        "Tooltip": "A dozen assorted donuts to share with friends.",
+        "ConsumableItemDesc": "ZuvkidodzkuOfGLDnTOFyg",
+        "AvatarItemDesc": "",
+        "AvatarItemType": null,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 20,
+        "Context": 110000,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": 34,
+        "ItemSetFriendlyName": "Donuts by the Dozen"
+      },
+      "PurchasableItemId": 857,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 100,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 90,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2563,
+        "FriendlyName": "Bowling Shirt (Runway)",
+        "Tooltip": null,
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,GDvaUU10-EKh3pKUQ9tnag,b-IM3eYMJUa40395O5XeLg,",
+        "AvatarItemType": 0,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 20,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": null,
+        "ItemSetFriendlyName": ""
+      },
+      "PurchasableItemId": 1050,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 600,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 540,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2556,
+        "FriendlyName": "Bowling Shirt (Lily)",
+        "Tooltip": "",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,yrQCLXiqRUSwnuQRYX2Rsw,VO_3cgqQqUOTz30TVUxrFA,",
+        "AvatarItemType": 0,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 30,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": null,
+        "ItemSetFriendlyName": ""
+      },
+      "PurchasableItemId": 1052,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 800,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 720,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2561,
+        "FriendlyName": "Bowling Shirt (Flames, Blue)",
+        "Tooltip": "",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,032pE8s9Ik-2CImFVDrSqg,5RUG6i2Mx0-55IO-IlhUdQ,",
+        "AvatarItemType": 0,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 50,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": null,
+        "ItemSetFriendlyName": ""
+      },
+      "PurchasableItemId": 1047,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 1000,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 900,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    },
+    {
+      "GiftDrop": {
+        "GiftDropId": 2475,
+        "FriendlyName": "Bowling Shirt (Flames, Red)",
+        "Tooltip": "",
+        "ConsumableItemDesc": "",
+        "AvatarItemDesc": "CQuKKNpan0O7rhR1fr14-Q,8xjU4GQ4OkaqGyad-ypwtw,5RUG6i2Mx0-55IO-IlhUdQ,",
+        "AvatarItemType": 0,
+        "EquipmentPrefabName": "",
+        "EquipmentModificationGuid": "",
+        "IsQuery": false,
+        "QueryRedirectContext": null,
+        "QueryRedirectRarity": null,
+        "Unique": false,
+        "SubscribersOnly": false,
+        "Rarity": 50,
+        "Context": 0,
+        "Currency": 0,
+        "CurrencyType": 0,
+        "ItemSetId": null,
+        "ItemSetFriendlyName": ""
+      },
+      "PurchasableItemId": 944,
+      "Type": 0,
+      "Prices": [
+        {
+          "CurrencyType": 2,
+          "Price": 1000,
+          "StorefrontSaleData": null
+        }
+      ],
+      "SubscriberPrices": [
+        {
+          "CurrencyType": 2,
+          "Price": 900,
+          "StorefrontSaleData": null
+        }
+      ],
+      "IsFeatured": false,
+      "NewUntil": null
+    }
+  ],
+  "SubscriberDiscountPercent": 10,
+  "StorefrontType": 700,
+  "NextUpdate": "2222-02-22T22:22:00Z",
+  "NewUntil": null
+}
