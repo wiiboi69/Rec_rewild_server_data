@@ -1,0 +1,79 @@
+{
+  "RoomId": 18,
+  "IsDorm": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 8,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "LaserTag",
+  "Description": "Teams battle each other and waves of robots.",
+  "ImageName": "LaserTag.png",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 1,
+  "SupportsLevelVoting": true,
+  "IsRRO": true,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2025-07-28T14:29:31.146449",
+  "Stats": {
+    "CheerCount": 0,
+    "FavoriteCount": 0,
+    "VisitorCount": 0,
+    "VisitCount": 0
+  },
+  "RankingContext": null,
+  "SubRooms": [
+    {
+      "SubRoomId": 23,
+      "RoomId": 18,
+      "Name": "Hangar",
+      "DataBlob": "",
+      "IsSandbox": false,
+      "MaxPlayers": 8,
+      "Accessibility": 1,
+      "UnitySceneId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+      "SavedByAccountId": -1
+    },
+    {
+      "SubRoomId": 24,
+      "RoomId": 18,
+      "Name": "CyberJunkCity",
+      "DataBlob": "",
+      "IsSandbox": false,
+      "MaxPlayers": 8,
+      "Accessibility": 1,
+      "UnitySceneId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+      "SavedByAccountId": -1
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion": 12,
+  "Tags": [],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": []
+}

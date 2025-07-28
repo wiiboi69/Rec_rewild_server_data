@@ -1,0 +1,68 @@
+{
+  "RoomId": 26,
+  "IsDorm": false,
+  "MaxPlayerCalculationMode": 1,
+  "MaxPlayers": 20,
+  "CloningAllowed": true,
+  "DisableMicAutoMute": false,
+  "DisableRoomComments": false,
+  "EncryptVoiceChat": false,
+  "ToxmodEnabled": false,
+  "LoadScreenLocked": false,
+  "PersistenceVersion": 2,
+  "AutoLocalizeRoom": false,
+  "IsDeveloperOwned": true,
+  "RankedEntityId": null,
+  "Name": "Homestead",
+  "Description": "A day on the farm. Great for asymmetrical battles!",
+  "ImageName": "Homestead.png",
+  "WarningMask": 0,
+  "CustomWarning": "",
+  "CreatorAccountId": 1,
+  "State": 0,
+  "Accessibility": 2,
+  "SupportsLevelVoting": false,
+  "IsRRO": true,
+  "SupportsScreens": true,
+  "SupportsWalkVR": true,
+  "SupportsTeleportVR": true,
+  "SupportsVRLow": true,
+  "SupportsQuest2": true,
+  "SupportsMobile": true,
+  "SupportsJuniors": true,
+  "MinLevel": 0,
+  "CreatedAt": "2025-07-28T14:29:31.149855",
+  "Stats": {
+    "CheerCount": 0,
+    "FavoriteCount": 0,
+    "VisitorCount": 0,
+    "VisitCount": 0
+  },
+  "RankingContext": null,
+  "SubRooms": [
+    {
+      "SubRoomId": 32,
+      "RoomId": 26,
+      "Name": "Home",
+      "DataBlob": "",
+      "IsSandbox": true,
+      "MaxPlayers": 20,
+      "Accessibility": 2,
+      "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+      "SavedByAccountId": -1
+    }
+  ],
+  "Roles": [
+    {
+      "AccountId": 1,
+      "Role": 255,
+      "InvitedRole": 0
+    }
+  ],
+  "DataBlob": null,
+  "UgcVersion": 12,
+  "Tags": [],
+  "PromoImages": [],
+  "PromoExternalContent": [],
+  "LoadScreens": []
+}
