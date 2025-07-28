@@ -2,9 +2,77 @@
   "Results": [
     {
       "RoomId": 1,
-      "IsDorm": true,
+      "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 8,
+      "MaxPlayers": 1,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Calibration",
+      "Description": "PSVR room calibration",
+      "ImageName": "Calibration.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.139068",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 1,
+          "RoomId": 1,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 1,
+          "Accessibility": 2,
+          "UnitySceneId": "f5fbd9c9-e853-4036-9d48-5f68e861af04",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 2,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
       "CloningAllowed": false,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -17,14 +85,14 @@
       "RankedEntityId": null,
       "Name": "DormRoom",
       "Description": "Your private room",
-      "ImageName": "dorm_room.png",
+      "ImageName": "DormRoom.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
       "State": 0,
       "Accessibility": 2,
       "SupportsLevelVoting": false,
-      "IsRRO": false,
+      "IsRRO": true,
       "SupportsScreens": true,
       "SupportsWalkVR": true,
       "SupportsTeleportVR": true,
@@ -33,18 +101,18 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-01-1T19:11:11.2029552",
+      "CreatedAt": "2025-07-28T14:29:31.139534",
       "Stats": {
-        "CheerCount": 2,
-        "FavoriteCount": 1,
+        "CheerCount": 0,
+        "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 33
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 1,
-          "RoomId": 1,
+          "SubRoomId": 2,
+          "RoomId": 2,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
@@ -69,10 +137,10 @@
       "LoadScreens": []
     },
     {
-      "RoomId": 2,
+      "RoomId": 3,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
+      "MaxPlayers": 12,
       "CloningAllowed": false,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -85,7 +153,7 @@
       "RankedEntityId": null,
       "Name": "RecCenter",
       "Description": "A social hub to meet and mingle with friends new and old.",
-      "ImageName": "reccenter.png",
+      "ImageName": "RecCenter.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
@@ -101,25 +169,25 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:11.6987003",
+      "CreatedAt": "2025-07-28T14:29:31.139936",
       "Stats": {
-        "CheerCount": 24,
-        "FavoriteCount": 25,
+        "CheerCount": 0,
+        "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 5528
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 2,
-          "RoomId": 2,
+          "SubRoomId": 3,
+          "RoomId": 3,
           "Name": "Home",
-          "DataBlob": "RoomData2841116730845187810",
+          "DataBlob": "",
           "IsSandbox": false,
           "MaxPlayers": 12,
           "Accessibility": 1,
           "UnitySceneId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
-          "SavedByAccountId": 62
+          "SavedByAccountId": -1
         }
       ],
       "Roles": [
@@ -130,103 +198,1239 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 1,
-      "Tags": [
-        {
-          "Tag": "hangout",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
     },
     {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:12.5586135",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "stop posting about baller",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "Dodgeball.png",
-      "IsDeveloperOwned": true,
+      "RoomId": 4,
       "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "Dodgeball",
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": true,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
       "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
       "RankedEntityId": null,
+      "Name": "3DCharades",
+      "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
+      "ImageName": "3DCharades.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.140356",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
       "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 4,
+          "RoomId": 4,
+          "Name": "InkSpaceHome",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "a673712c-877f-4749-b69a-4a4c6310d545",
+          "SavedByAccountId": -1
+        }
+      ],
       "Roles": [
         {
           "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
+          "Role": 255,
+          "InvitedRole": 0
         }
       ],
-      "RoomId": 4,
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 5,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": true,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Legacy3DCharades",
+      "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
+      "ImageName": "Legacy3DCharades.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
       "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.141173",
       "Stats": {
-        "CheerCount": 12,
-        "FavoriteCount": 16,
-        "VisitCount": 1701,
-        "VisitorCount": 0
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
       },
+      "RankingContext": null,
       "SubRooms": [
         {
+          "SubRoomId": 5,
+          "RoomId": 5,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
           "Accessibility": 1,
+          "UnitySceneId": "4078dfed-24bb-4db7-863f-578ba48d726b",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 6,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": true,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "TheInkSpace",
+      "Description": "A cozy event venue with a stage. The entire room is made of props, so customize to your heart's content!",
+      "ImageName": "TheInkSpace.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.141567",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 6,
+          "RoomId": 6,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 8,
+          "Accessibility": 2,
+          "UnitySceneId": "1fa06e3c-c307-4c11-a91b-1fabcddb8a96",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 7,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "DiscGolfLake",
+      "Description": "A leisurely stroll through the grass. Throw your disc into the goal. Sounds easy, right?",
+      "ImageName": "DiscGolfLake.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.141948",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 7,
+          "RoomId": 7,
+          "Name": "Home",
           "DataBlob": "",
           "IsSandbox": false,
           "MaxPlayers": 4,
-          "Name": "Home",
-          "RoomId": 4,
-          "SavedByAccountId": -1,
-          "SubRoomId": 4,
-          "UnitySceneId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f"
+          "Accessibility": 1,
+          "UnitySceneId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+          "SavedByAccountId": -1
         }
       ],
-      "SupportsJuniors": true,
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 8,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "DiscGolfPropulsion",
+      "Description": "Throw your disc through hazards and around wind machines on this challenging course!",
+      "ImageName": "DiscGolfPropulsion.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
       "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
+      "IsRRO": true,
       "SupportsScreens": true,
+      "SupportsWalkVR": true,
       "SupportsTeleportVR": true,
       "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.142316",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
         {
-          "Tag": "sport",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
+          "SubRoomId": 8,
+          "RoomId": 8,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 4,
+          "Accessibility": 1,
+          "UnitySceneId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+          "SavedByAccountId": -1
         }
       ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 9,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 6,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
       "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Dodgeball",
+      "Description": "Throw dodgeballs to knock out your friends in this gym classic!",
+      "ImageName": "Dodgeball.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.142703",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 9,
+          "RoomId": 9,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 6,
+          "Accessibility": 1,
+          "UnitySceneId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 10,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 2,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Paddleball",
+      "Description": "A simple rally game between two players in a plexiglass tube with a zero-g ball.",
+      "ImageName": "Paddleball.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.143129",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 10,
+          "RoomId": 10,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 2,
+          "Accessibility": 1,
+          "UnitySceneId": "d89f74fa-d51e-477a-a425-025a891dd499",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 11,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Paintball",
+      "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
+      "ImageName": "Paintball.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": true,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.143546",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 11,
+          "RoomId": 11,
+          "Name": "River",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 12,
+          "RoomId": 11,
+          "Name": "Homestead",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 13,
+          "RoomId": 11,
+          "Name": "Quarry",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "ff4c6427-7079-4f59-b22a-69b089420827",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 14,
+          "RoomId": 11,
+          "Name": "Clearcut",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 15,
+          "RoomId": 11,
+          "Name": "Spillway",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "58763055-2dfb-4814-80b8-16fac5c85709",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 16,
+          "RoomId": 11,
+          "Name": "Drive-in",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "65ddbb48-5a01-4e3e-972d-e5c7419e2bc3",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 12,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "GoldenTrophy",
+      "Description": "The goblin king stole Coach's Golden Trophy. Team up and embark on an epic quest to recover it!",
+      "ImageName": "GoldenTrophy.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.144026",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 17,
+          "RoomId": 12,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 4,
+          "Accessibility": 1,
+          "UnitySceneId": "91e16e35-f48f-4700-ab8a-a1b79e50e51b",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 13,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 1,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": true,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Orientation",
+      "Description": "An introductory tour of Rec Room!",
+      "ImageName": "Orientation.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.144516",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 18,
+          "RoomId": 13,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 1,
+          "Accessibility": 1,
+          "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 14,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "TheRiseofJumbotron",
+      "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
+      "ImageName": "TheRiseofJumbotron.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.144948",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 19,
+          "RoomId": 14,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 4,
+          "Accessibility": 1,
+          "UnitySceneId": "acc06e66-c2d0-4361-b0cd-46246a4c455c",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 15,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "CrimsonCauldron",
+      "Description": "Can your band of adventurers brave the enchanted wilds, and lift the curse of the crimson cauldron?",
+      "ImageName": "CrimsonCauldron.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.145323",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 20,
+          "RoomId": 15,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 4,
+          "Accessibility": 1,
+          "UnitySceneId": "949fa41f-4347-45c0-b7ac-489129174045",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 16,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 3,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "IsleOfLostSkulls",
+      "Description": "Can your pirate crew get to the Isle, defeat its fearsome guardian, and escape with the gold?",
+      "ImageName": "IsleOfLostSkulls.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.145704",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 21,
+          "RoomId": 16,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 3,
+          "Accessibility": 1,
+          "UnitySceneId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 17,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 6,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Soccer",
+      "Description": "Teams of three run around slamming themselves into an over-sized soccer ball. Goal!",
+      "ImageName": "Soccer.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.146075",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 22,
+          "RoomId": 17,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 6,
+          "Accessibility": 1,
+          "UnitySceneId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
     },
     {
       "RoomId": 18,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 2000,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "LaserTag",
+      "Description": "Teams battle each other and waves of robots.",
+      "ImageName": "LaserTag.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": true,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.146449",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 23,
+          "RoomId": 18,
+          "Name": "Hangar",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 24,
+          "RoomId": 18,
+          "Name": "CyberJunkCity",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 19,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 18,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "RecRoyaleSquads",
+      "Description": "Squads of three battle it out on Frontier Island. Last squad standing wins!",
+      "ImageName": "RecRoyaleSquads.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.146835",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 25,
+          "RoomId": 19,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 18,
+          "Accessibility": 1,
+          "UnitySceneId": "253fa009-6e65-4c90-91a1-7137a56a267f",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 20,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 16,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "RecRoyaleSolos",
+      "Description": "Battle it out on Frontier Island. Last person standing wins!",
+      "ImageName": "RecRoyaleSolos.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.147205",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 26,
+          "RoomId": 20,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 16,
+          "Accessibility": 1,
+          "UnitySceneId": "b010171f-4875-4e89-baba-61e878cd41e1",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 21,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
       "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -255,22 +1459,22 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:13.688148",
+      "CreatedAt": "2025-07-28T14:29:31.147657",
       "Stats": {
         "CheerCount": 0,
         "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 25
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 1,
-          "RoomId": 18,
+          "SubRoomId": 27,
+          "RoomId": 21,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
-          "MaxPlayers": 2000,
+          "MaxPlayers": 20,
           "Accessibility": 1,
           "UnitySceneId": "a067557f-ca32-43e6-b6e5-daaec60b4f5a",
           "SavedByAccountId": -1
@@ -284,21 +1488,144 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 1,
-      "Tags": [
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 22,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 40,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "PerformanceHall",
+      "Description": "A theater for plays, music, comedy and other performances.",
+      "ImageName": "PerformanceHall.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.148053",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
         {
-          "Tag": "base",
-          "Type": 0
-        },
-        {
-          "Tag": "hangout",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
+          "SubRoomId": 28,
+          "RoomId": 22,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 40,
+          "Accessibility": 2,
+          "UnitySceneId": "9932f88f-3929-43a0-a012-a40b5128e346",
+          "SavedByAccountId": -1
         }
       ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 23,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "MakerRoom",
+      "Description": "This room is a blank canvas. Make it into whatever you like!",
+      "ImageName": "MakerRoom.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.148522",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 29,
+          "RoomId": 23,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
@@ -307,7 +1634,7 @@
       "RoomId": 24,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 2000,
+      "MaxPlayers": 20,
       "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -318,9 +1645,9 @@
       "AutoLocalizeRoom": false,
       "IsDeveloperOwned": true,
       "RankedEntityId": null,
-      "Name": "Registration",
-      "Description": "",
-      "ImageName": "Registration.png",
+      "Name": "Park",
+      "Description": "A sprawling park with amphitheater, play fields, and a cave.",
+      "ImageName": "Park.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
@@ -336,24 +1663,24 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:13.688148",
+      "CreatedAt": "2025-07-28T14:29:31.148997",
       "Stats": {
         "CheerCount": 0,
         "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 25
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 1,
+          "SubRoomId": 30,
           "RoomId": 24,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
-          "MaxPlayers": 2000,
+          "MaxPlayers": 20,
           "Accessibility": 1,
-          "UnitySceneId": "cf61556d-68fd-4288-9ae5-7a512621e569",
+          "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
           "SavedByAccountId": -1
         }
       ],
@@ -365,162 +1692,17 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 1,
-      "Tags": [
-        {
-          "Tag": "base",
-          "Type": 0
-        },
-        {
-          "Tag": "hangout",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
     },
     {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:13.1437518",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "Red and Blue teams splat each other in capture the flag and team battle.",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "Paintball.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 800,
-      "MinLevel": 0,
-      "Name": "Paintball",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 6,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 1,
-        "FavoriteCount": 2,
-        "VisitCount": 218,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "River",
-          "RoomId": 6,
-          "SavedByAccountId": -1,
-          "SubRoomId": 13,
-          "UnitySceneId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "Homestead",
-          "RoomId": 7,
-          "SavedByAccountId": -1,
-          "SubRoomId": 14,
-          "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "Quarry",
-          "RoomId": 8,
-          "SavedByAccountId": -1,
-          "SubRoomId": 15,
-          "UnitySceneId": "ff4c6427-7079-4f59-b22a-69b089420827"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "Clearcut",
-          "RoomId": 9,
-          "SavedByAccountId": -1,
-          "SubRoomId": 16,
-          "UnitySceneId": "380d18b5-de9c-49f3-80f7-f4a95c1de161"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "Spillway",
-          "RoomId": 10,
-          "SavedByAccountId": -1,
-          "SubRoomId": 17,
-          "UnitySceneId": "58763055-2dfb-4814-80b8-16fac5c85709"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "DriveIn",
-          "RoomId": 11,
-          "SavedByAccountId": -1,
-          "SubRoomId": 18,
-          "UnitySceneId": "65ddbb48-5a01-4e3e-972d-e5c7419e2bc3"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": true,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "pvp",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 1,
-      "WarningMask": 0
-    },
-    {
-      "RoomId": 200,
+      "RoomId": 25,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
+      "MaxPlayers": 20,
       "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -531,14 +1713,14 @@
       "AutoLocalizeRoom": false,
       "IsDeveloperOwned": true,
       "RankedEntityId": null,
-      "Name": "3DCharades",
-      "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
-      "ImageName": "charade.png",
+      "Name": "River",
+      "Description": "The original outdoor paintball course. Simple, balanced, classic.",
+      "ImageName": "River.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
       "State": 0,
-      "Accessibility": 1,
+      "Accessibility": 2,
       "SupportsLevelVoting": false,
       "IsRRO": true,
       "SupportsScreens": true,
@@ -547,26 +1729,26 @@
       "SupportsVRLow": true,
       "SupportsQuest2": true,
       "SupportsMobile": true,
-      "SupportsJuniors": false,
+      "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:14.2750573",
+      "CreatedAt": "2025-07-28T14:29:31.149455",
       "Stats": {
-        "CheerCount": 1,
-        "FavoriteCount": 2,
+        "CheerCount": 0,
+        "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 60
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 200,
-          "RoomId": 200,
+          "SubRoomId": 31,
+          "RoomId": 25,
           "Name": "Home",
           "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Accessibility": 1,
-          "UnitySceneId": "a673712c-877f-4749-b69a-4a4c6310d545",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "e122fe98-e7db-49e8-a1b1-105424b6e1f0",
           "SavedByAccountId": -1
         }
       ],
@@ -578,275 +1760,17 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "3dcharades",
-          "Type": 0
-        },
-        {
-          "Tag": "art",
-          "Type": 0
-        },
-        {
-          "Tag": "casual",
-          "Type": 0
-        },
-        {
-          "Tag": "drawing",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:13.4547558",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "touch dic",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "Park.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "Park",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 18,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 8,
-        "FavoriteCount": 3,
-        "VisitCount": 739,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 12,
-          "Name": "Home",
-          "RoomId": 18,
-          "SavedByAccountId": -1,
-          "SubRoomId": 18,
-          "UnitySceneId": "0a864c86-5a71-4e18-8041-8124e4dc9d98"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "rro",
-          "Type": 0
-        },
-        {
-          "Tag": "game",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:13.4547558",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "wii sport!",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "Bowling.jpg",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "Bowling",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 14,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 4,
-        "FavoriteCount": 5,
-        "VisitCount": 274,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 6,
-          "Name": "Home",
-          "RoomId": 14,
-          "SavedByAccountId": -1,
-          "SubRoomId": 19,
-          "UnitySceneId": "ae929543-9a07-41d5-8ee9-dbbee8c36800"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "rro",
-          "Type": 0
-        },
-        {
-          "Tag": "game",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "RoomId": 23,
-      "IsDorm": false,
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "CloningAllowed": true,
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ToxmodEnabled": false,
-      "LoadScreenLocked": false,
-      "PersistenceVersion": 2,
-      "AutoLocalizeRoom": false,
-      "IsDeveloperOwned": true,
-      "RankedEntityId": null,
-      "Name": "TheRiseofJumbotron",
-      "Description": "Robot invaders threaten the galaxy! Team up with your friends and bring the laser heat!",
-      "ImageName": "xedpng.jpg",
-      "WarningMask": 0,
-      "CustomWarning": "",
-      "CreatorAccountId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsRRO": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsQuest2": true,
-      "SupportsMobile": true,
-      "SupportsJuniors": true,
-      "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:12.2093111",
-      "Stats": {
-        "CheerCount": 3,
-        "FavoriteCount": 4,
-        "VisitorCount": 0,
-        "VisitCount": 207
-      },
-      "RankingContext": null,
-      "SubRooms": [
-        {
-          "SubRoomId": 25,
-          "RoomId": 23,
-          "Name": "Home",
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 4,
-          "Accessibility": 1,
-          "UnitySceneId": "acc06e66-c2d0-4361-b0cd-46246a4c455c",
-          "SavedByAccountId": -1
-        }
-      ],
-      "Roles": [
-        {
-          "AccountId": 1,
-          "Role": 255,
-          "InvitedRole": 0
-        }
-      ],
-      "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "quest",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "PromoImages": [],
-      "PromoExternalContent": [],
-      "LoadScreens": [
-        {
-          "ImageName": "RoomImage9e695ac9282b4bd4972eb0b9a05bc00a.png",
-          "Subtitle": "jumbo",
-          "Title": "tronners"
-        }
-      ]
     },
     {
       "RoomId": 26,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
+      "MaxPlayers": 20,
       "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -857,14 +1781,14 @@
       "AutoLocalizeRoom": false,
       "IsDeveloperOwned": true,
       "RankedEntityId": null,
-      "Name": "isleoflostskulls",
-      "Description": "can your pirate crew get to the boss, defeat its balls, and escape with the gold?",
-      "ImageName": "ILS.png",
+      "Name": "Homestead",
+      "Description": "A day on the farm. Great for asymmetrical battles!",
+      "ImageName": "Homestead.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
       "State": 0,
-      "Accessibility": 1,
+      "Accessibility": 2,
       "SupportsLevelVoting": false,
       "IsRRO": true,
       "SupportsScreens": true,
@@ -875,510 +1799,432 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:15.3569179",
+      "CreatedAt": "2025-07-28T14:29:31.149855",
       "Stats": {
-        "CheerCount": 1,
-        "FavoriteCount": 2,
+        "CheerCount": 0,
+        "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 120
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 32,
+          "RoomId": 26,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "a785267d-c579-42ea-be43-fec1992d1ca7",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 27,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Quarry",
+      "Description": "The sun sets on this construction site in the desert. Great for sniping battles!",
+      "ImageName": "Quarry.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.150303",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 33,
+          "RoomId": 27,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "ff4c6427-7079-4f59-b22a-69b089420827",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 28,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Clearcut",
+      "Description": "The sun rises on this logging camp in the forest. Great for mid-range splatting!",
+      "ImageName": "Clearcut.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.150715",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 34,
+          "RoomId": 28,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "380d18b5-de9c-49f3-80f7-f4a95c1de161",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 29,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Spillway",
+      "Description": "Night shift at the hydroelectric plant. Great for stealthy splatting!",
+      "ImageName": "Spillway.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.151100",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 35,
+          "RoomId": 29,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "58763055-2dfb-4814-80b8-16fac5c85709",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 30,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Lake",
+      "Description": "A leisurely trail to the lake and beyond.",
+      "ImageName": "Lake.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.151477",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 36,
+          "RoomId": 30,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 31,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "PropulsionTestRange",
+      "Description": "The science department left some of their equipment laying around. What will you do with it?",
+      "ImageName": "PropulsionTestRange.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.151859",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 37,
+          "RoomId": 31,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "d9378c9f-80bc-46fb-ad1e-1bed8a674f55",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 32,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Gym",
+      "Description": "A school gymnasium for smaller sporting events.",
+      "ImageName": "Gym.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.152398",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
           "SubRoomId": 38,
-          "RoomId": 26,
-          "Name": "Home",
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 3,
-          "Accessibility": 1,
-          "UnitySceneId": "7e01cfe0-820a-406f-b1b3-0a5bf575235c",
-          "SavedByAccountId": -1
-        }
-      ],
-      "Roles": [
-        {
-          "AccountId": 1,
-          "Role": 255,
-          "InvitedRole": 0
-        }
-      ],
-      "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "quest",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "PromoImages": [],
-      "PromoExternalContent": [],
-      "LoadScreens": [
-        {
-          "ImageName": "skull.png",
-          "Subtitle": "defeat boss",
-          "Title": "isle"
-        }
-      ]
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": false,
-      "CreatedAt": "2024-02-24T19:11:12.4432401",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "An introductory tour of Rec Room!",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "Orientation.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "Orientation",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 20,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 4,
-        "FavoriteCount": 6,
-        "VisitCount": 43,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "RoomData6674040500062381405",
-          "IsSandbox": false,
-          "MaxPlayers": 1,
-          "Name": "Home",
-          "RoomId": 20,
-          "SavedByAccountId": 1,
-          "SubRoomId": 1,
-          "UnitySceneId": "c79709d8-a31b-48aa-9eb8-cc31ba9505e8"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:14.000156",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "Teams battle each other and waves of robots.",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "LaserTag.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "LaserTag",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 12,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 2,
-        "FavoriteCount": 2,
-        "VisitCount": 126,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "CyberJunkCity",
-          "RoomId": 12,
-          "SavedByAccountId": -1,
-          "SubRoomId": 1,
-          "UnitySceneId": "9d6456ce-6264-48b4-808d-2d96b3d91038"
-        },
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 8,
-          "Name": "Hangar",
-          "RoomId": 13,
-          "SavedByAccountId": -1,
-          "SubRoomId": 2,
-          "UnitySceneId": "239e676c-f12f-489f-bf3a-d4c383d692c3"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": true,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "pvp",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 1,
-      "WarningMask": 0
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:12.5586135",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "can you use magic to defeat the witch boss?",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "CCC.jpg",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "CrimsonCauldron",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 32,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 63,
-        "FavoriteCount": 98,
-        "VisitCount": 9806,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 4,
-          "Name": "Home",
           "RoomId": 32,
-          "SavedByAccountId": -1,
-          "SubRoomId": 33,
-          "UnitySceneId": "949fa41f-4347-45c0-b7ac-489129174045"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "sport",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2024-02-24T19:11:12.5586135",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "The goblin king stole Coach's Golden Trophy. Team up and embark on an epic quest to recover it!",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "GoldenTrophy.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "GoldenTrophy",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 22,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 12,
-        "FavoriteCount": 16,
-        "VisitCount": 1701,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 4,
-          "Name": "Home",
-          "RoomId": 22,
-          "SavedByAccountId": -1,
-          "SubRoomId": 8,
-          "UnitySceneId": "91e16e35-f48f-4700-ab8a-a1b79e50e51b"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "quest",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "RoomId": 16,
-      "IsDorm": false,
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "CloningAllowed": false,
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ToxmodEnabled": false,
-      "LoadScreenLocked": false,
-      "PersistenceVersion": 2,
-      "AutoLocalizeRoom": false,
-      "IsDeveloperOwned": true,
-      "RankedEntityId": null,
-      "Name": "RecRoyaleSolos",
-      "Description": "Battle it out on Frontier Island. Last person standing wins!",
-      "ImageName": "RRSolo.png",
-      "WarningMask": 0,
-      "CustomWarning": "",
-      "CreatorAccountId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsRRO": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsQuest2": true,
-      "SupportsMobile": true,
-      "SupportsJuniors": true,
-      "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:12.0918225",
-      "Stats": {
-        "CheerCount": 5,
-        "FavoriteCount": 6,
-        "VisitorCount": 0,
-        "VisitCount": 427
-      },
-      "RankingContext": null,
-      "SubRooms": [
-        {
-          "SubRoomId": 4,
-          "RoomId": 16,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": true,
-          "MaxPlayers": 16,
-          "Accessibility": 1,
-          "UnitySceneId": "b010171f-4875-4e89-baba-61e878cd41e1",
-          "SavedByAccountId": -1
-        }
-      ],
-      "Roles": [
-        {
-          "AccountId": 1,
-          "Role": 255,
-          "InvitedRole": 0
-        }
-      ],
-      "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "pvp",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
-      "PromoImages": [],
-      "PromoExternalContent": [],
-      "LoadScreens": []
-    },
-    {
-      "RoomId": 170,
-      "IsDorm": false,
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "CloningAllowed": false,
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ToxmodEnabled": false,
-      "LoadScreenLocked": false,
-      "PersistenceVersion": 2,
-      "AutoLocalizeRoom": false,
-      "IsDeveloperOwned": true,
-      "RankedEntityId": null,
-      "Name": "StuntRunner",
-      "Description": "Sprint, climb, and wall jump in this high-speed obstacle course where every second counts!",
-      "ImageName": "SR.png",
-      "WarningMask": 0,
-      "CustomWarning": "",
-      "CreatorAccountId": 1,
-      "State": 0,
-      "Accessibility": 1,
-      "SupportsLevelVoting": false,
-      "IsRRO": true,
-      "SupportsScreens": true,
-      "SupportsWalkVR": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsQuest2": true,
-      "SupportsMobile": true,
-      "SupportsJuniors": true,
-      "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:12.0918225",
-      "Stats": {
-        "CheerCount": 0,
-        "FavoriteCount": 0,
-        "VisitorCount": 0,
-        "VisitCount": 0
-      },
-      "RankingContext": null,
-      "SubRooms": [
-        {
-          "SubRoomId": 17,
-          "RoomId": 25,
-          "Name": "StuntRunner",
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 12,
-          "Accessibility": 1,
-          "UnitySceneId": "b7281665-a715-4051-826b-8e08e69c6172",
-          "SavedByAccountId": -1
-        },
-        {
-          "SubRoomId": 19,
-          "RoomId": 17,
-          "Name": "TheMainEvent",
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 4,
+          "MaxPlayers": 20,
           "Accessibility": 2,
-          "UnitySceneId": "3a636bd2-f896-424c-9225-c184522c0d87",
+          "UnitySceneId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
           "SavedByAccountId": -1
         }
       ],
@@ -1390,27 +2236,18 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "game",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
     },
     {
-      "RoomId": 2707040,
+      "RoomId": 33,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "CloningAllowed": false,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
       "EncryptVoiceChat": false,
@@ -1420,9 +2257,213 @@
       "AutoLocalizeRoom": false,
       "IsDeveloperOwned": true,
       "RankedEntityId": null,
-      "Name": "StuntTemplate",
-      "Description": "Use this template to create your very own Stunt Runner course! Includes everything you need to get started!",
-      "ImageName": "SRTemplate.png",
+      "Name": "Stadium",
+      "Description": "A professional stadium for larger sporting events.",
+      "ImageName": "Stadium.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.152877",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 39,
+          "RoomId": 33,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 34,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Hangar",
+      "Description": "A late-eighties-style laser tag battle arcade.",
+      "ImageName": "Hangar.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.153338",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 40,
+          "RoomId": 34,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "239e676c-f12f-489f-bf3a-d4c383d692c3",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 35,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "CyberJunkCity",
+      "Description": "A late-2080s-style cyberpunk dystopian laser tag battle arcade",
+      "ImageName": "CyberJunkCity.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.153809",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 41,
+          "RoomId": 35,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "9d6456ce-6264-48b4-808d-2d96b3d91038",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 36,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 6,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "DodgeballVR",
+      "Description": "Throw dodgeballs to knock out your friends in this gym classic!",
+      "ImageName": "DodgeballVR.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
@@ -1438,7 +2479,7 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:12.0918225",
+      "CreatedAt": "2025-07-28T14:29:31.154360",
       "Stats": {
         "CheerCount": 0,
         "FavoriteCount": 0,
@@ -1448,14 +2489,14 @@
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 2740851,
-          "RoomId": 2707040,
+          "SubRoomId": 42,
+          "RoomId": 36,
           "Name": "Home",
-          "DataBlob": "d3d58fb008d14141b14ea66e352d157a.room",
+          "DataBlob": "",
           "IsSandbox": false,
-          "MaxPlayers": 12,
+          "MaxPlayers": 6,
           "Accessibility": 1,
-          "UnitySceneId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+          "UnitySceneId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
           "SavedByAccountId": -1
         }
       ],
@@ -1467,99 +2508,17 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
-        {
-          "Tag": "game",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
-        }
-      ],
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
     },
     {
-      "Accessibility": 1,
-      "AutoLocalizeRoom": false,
-      "CloningAllowed": true,
-      "CreatedAt": "2017-01-24T19:11:12.5586135",
-      "CreatorAccountId": 1,
-      "CustomWarning": "",
-      "DataBlob": null,
-      "Description": "make stuff in this maker room",
-      "DisableMicAutoMute": false,
-      "DisableRoomComments": false,
-      "EncryptVoiceChat": false,
-      "ImageName": "MakerRoom.png",
-      "IsDeveloperOwned": true,
-      "IsDorm": false,
-      "IsRRO": true,
-      "LoadScreenLocked": false,
-      "LoadScreens": [],
-      "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
-      "MinLevel": 0,
-      "Name": "Dodgeball",
-      "PersistenceVersion": 2,
-      "PromoExternalContent": [],
-      "PromoImages": [],
-      "RankedEntityId": null,
-      "RankingContext": null,
-      "Roles": [
-        {
-          "AccountId": 1,
-          "InvitedRole": 0,
-          "Role": 255
-        }
-      ],
-      "RoomId": 69420,
-      "State": 0,
-      "Stats": {
-        "CheerCount": 0,
-        "FavoriteCount": 0,
-        "VisitCount": 0,
-        "VisitorCount": 0
-      },
-      "SubRooms": [
-        {
-          "Accessibility": 1,
-          "DataBlob": "",
-          "IsSandbox": false,
-          "MaxPlayers": 4,
-          "Name": "Home",
-          "RoomId": 69420,
-          "SavedByAccountId": -1,
-          "SubRoomId": 69420,
-          "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92"
-        }
-      ],
-      "SupportsJuniors": true,
-      "SupportsLevelVoting": false,
-      "SupportsMobile": true,
-      "SupportsQuest2": true,
-      "SupportsScreens": true,
-      "SupportsTeleportVR": true,
-      "SupportsVRLow": true,
-      "SupportsWalkVR": true,
-      "Tags": [
-        {
-          "Tag": "base",
-          "Type": 0
-        }
-      ],
-      "ToxmodEnabled": false,
-      "UgcVersion": 2,
-      "WarningMask": 0
-    },
-    {
-      "RoomId": 21,
+      "RoomId": 37,
       "IsDorm": false,
       "MaxPlayerCalculationMode": 1,
-      "MaxPlayers": 0,
+      "MaxPlayers": 3,
       "CloningAllowed": true,
       "DisableMicAutoMute": false,
       "DisableRoomComments": false,
@@ -1572,7 +2531,7 @@
       "RankedEntityId": null,
       "Name": "Crescendo",
       "Description": "Gather your vampire hunting crew, conquer a legendary castle, and restore peace to Rec Room!",
-      "ImageName": "crescendo.png",
+      "ImageName": "Crescendo.png",
       "WarningMask": 0,
       "CustomWarning": "",
       "CreatorAccountId": 1,
@@ -1588,18 +2547,18 @@
       "SupportsMobile": true,
       "SupportsJuniors": true,
       "MinLevel": 0,
-      "CreatedAt": "2024-02-24T19:11:12.3246453",
+      "CreatedAt": "2025-07-28T14:29:31.154907",
       "Stats": {
-        "CheerCount": 6,
-        "FavoriteCount": 5,
+        "CheerCount": 0,
+        "FavoriteCount": 0,
         "VisitorCount": 0,
-        "VisitCount": 263
+        "VisitCount": 0
       },
       "RankingContext": null,
       "SubRooms": [
         {
-          "SubRoomId": 6,
-          "RoomId": 21,
+          "SubRoomId": 43,
+          "RoomId": 37,
           "Name": "Home",
           "DataBlob": "",
           "IsSandbox": false,
@@ -1617,21 +2576,499 @@
         }
       ],
       "DataBlob": null,
-      "UgcVersion": 2,
-      "Tags": [
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 38,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Bowling",
+      "Description": "Hang out with friends, bowl a few games, eat snacks!",
+      "ImageName": "Bowling.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.155602",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
         {
-          "Tag": "quest",
-          "Type": 0
-        },
-        {
-          "Tag": "rro",
-          "Type": 0
+          "SubRoomId": 44,
+          "RoomId": 38,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 8,
+          "Accessibility": 1,
+          "UnitySceneId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+          "SavedByAccountId": -1
         }
       ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 39,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 8,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "BowlingAlley",
+      "Description": "Lone Shoe Lanes is the hottest hangout in town. ",
+      "ImageName": "BowlingAlley.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.156072",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 45,
+          "RoomId": 39,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 8,
+          "Accessibility": 2,
+          "UnitySceneId": "ae929543-9a07-41d5-8ee9-dbbee8c36800",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 40,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 12,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "StuntRunner",
+      "Description": "Sprint, climb, and wall jump in this high-speed obstacle course where every second counts!",
+      "ImageName": "StuntRunner.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.156471",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 46,
+          "RoomId": 40,
+          "Name": "StuntRunner",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 12,
+          "Accessibility": 1,
+          "UnitySceneId": "b7281665-a715-4051-826b-8e08e69c6172",
+          "SavedByAccountId": -1
+        },
+        {
+          "SubRoomId": 47,
+          "RoomId": 40,
+          "Name": "TheMainEvent",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 4,
+          "Accessibility": 1,
+          "UnitySceneId": "3a636bd2-f896-424c-9225-c184522c0d87",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 41,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "StuntRunnerBaseRoom",
+      "Description": "A soundstage warehouse used to film Stunt Runner and other RecTV shows.",
+      "ImageName": "StuntRunnerBaseRoom.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.156899",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 48,
+          "RoomId": 41,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "882e9b96-7115-4b03-86f6-c0c9d8e22e00",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 42,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 1,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": true,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "Registration",
+      "Description": "Registration",
+      "ImageName": "Registration.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.157594",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 49,
+          "RoomId": 42,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": false,
+          "MaxPlayers": 1,
+          "Accessibility": 2,
+          "UnitySceneId": "cf61556d-68fd-4288-9ae5-7a512621e569",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 43,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 4,
+      "CloningAllowed": false,
+      "DisableMicAutoMute": true,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "ARRoom",
+      "Description": "Your real room!",
+      "ImageName": "ARRoom.png",
+      "WarningMask": 32,
+      "CustomWarning": "Use Augmented Reality to play Rec Room in your real-world space!  Please be aware of your surroundings.  Note: this room cannot be saved.",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.158194",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 50,
+          "RoomId": 43,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 4,
+          "Accessibility": 2,
+          "UnitySceneId": "bf268f5f-b55b-41af-8628-32fa4b5d70b6",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
+      "PromoImages": [],
+      "PromoExternalContent": [],
+      "LoadScreens": []
+    },
+    {
+      "RoomId": 44,
+      "IsDorm": false,
+      "MaxPlayerCalculationMode": 1,
+      "MaxPlayers": 20,
+      "CloningAllowed": true,
+      "DisableMicAutoMute": false,
+      "DisableRoomComments": false,
+      "EncryptVoiceChat": false,
+      "ToxmodEnabled": false,
+      "LoadScreenLocked": false,
+      "PersistenceVersion": 2,
+      "AutoLocalizeRoom": false,
+      "IsDeveloperOwned": true,
+      "RankedEntityId": null,
+      "Name": "DriveIn",
+      "Description": "A drive-in theater, diner, and truck stop make this a multi-area paint arena",
+      "ImageName": "DriveIn.png",
+      "WarningMask": 0,
+      "CustomWarning": "",
+      "CreatorAccountId": 1,
+      "State": 0,
+      "Accessibility": 2,
+      "SupportsLevelVoting": false,
+      "IsRRO": true,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true,
+      "SupportsVRLow": true,
+      "SupportsQuest2": true,
+      "SupportsMobile": true,
+      "SupportsJuniors": true,
+      "MinLevel": 0,
+      "CreatedAt": "2025-07-28T14:29:31.158661",
+      "Stats": {
+        "CheerCount": 0,
+        "FavoriteCount": 0,
+        "VisitorCount": 0,
+        "VisitCount": 0
+      },
+      "RankingContext": null,
+      "SubRooms": [
+        {
+          "SubRoomId": 51,
+          "RoomId": 44,
+          "Name": "Home",
+          "DataBlob": "",
+          "IsSandbox": true,
+          "MaxPlayers": 20,
+          "Accessibility": 2,
+          "UnitySceneId": "65ddbb48-5a01-4e3e-972d-e5c7419e2bc3",
+          "SavedByAccountId": -1
+        }
+      ],
+      "Roles": [
+        {
+          "AccountId": 1,
+          "Role": 255,
+          "InvitedRole": 0
+        }
+      ],
+      "DataBlob": null,
+      "UgcVersion": 12,
+      "Tags": [],
       "PromoImages": [],
       "PromoExternalContent": [],
       "LoadScreens": []
     }
   ],
-  "TotalResults": 9999
+  "TotalResults": 44
 }
