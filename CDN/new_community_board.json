@@ -1,0 +1,88 @@
+{
+  "FeaturedPlayer": {
+    "Id": 1,
+    "TitleOverride": "Featured Player",
+    "UrlOverride": "https://example.com"
+  },
+  "FeaturedRoomGroup": {
+    "FeaturedRoomGroupId": 1,
+    "Name": "Room Highlights",
+    "StartAt": "2023-05-02T07:00:00Z",
+    "EndAt": "9999-05-09T07:00:00Z",
+    "FeaturedRooms": [
+      {
+        "RoomName": "dormroom",
+        "RoomId": 2,
+        "ImageName": "DormRoom.png"
+      }
+    ],
+    "Rooms": [
+      {
+        "RoomName": "dormroom",
+        "RoomId": 2,
+        "ImageName": "DormRoom.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "Welcome to Rec_rewild 2021!",
+    "MoreInfoUrl": "https://recrewild.oldrec.net"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "meme.jpg",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "meme.png",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "meme2.jpg",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "image.png",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "jiggle.png",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "rewild.png",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "message.png",
+      "ImageUrl": "https://www.discord.cim"
+    },
+    {
+      "ImageName": "image.png",
+      "ImageUrl": "https://www.discord.cim"
+    }
+  ],
+  "Videos": [
+    {
+      "BlobName": "bottomgear.webm",
+      "Title": "bottom gear",
+      "Description": "wow",
+      "ThumbnailBlobName": "bottom.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=zd_Fu4mW2po"
+    },
+    {
+      "BlobName": "u.webm",
+      "Title": "Placeholder 2",
+      "Description": "",
+      "ThumbnailBlobName": "IDK.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "BlobName": "deez.mp4",
+      "Title": "Placeholder 3",
+      "Description": "",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ]
+}
